@@ -1,0 +1,29 @@
+{
+  "name": "bleachmap",
+  "version": "0.0.1",
+  "description": "map coral bleaching obs",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-data": "togeojson data/doc.kml > data/doc.geojson && cp data/doc.geojson docs",
+    "build-html": "cp html/index.html docs",
+    "build-css": "cp css/styles.css docs",
+    "build": "npm run build-data && npm run build-html && npm run build-css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielBaird/bleachmap.git"
+  },
+  "author": "Daniel Baird <daniel@danielbaird.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielBaird/bleachmap/issues"
+  },
+  "homepage": "https://github.com/DanielBaird/bleachmap#readme",
+  "dependencies": {
+    "togeojson": "^0.14.2"
+  }
+}
