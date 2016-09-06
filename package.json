@@ -8,7 +8,8 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build-data": "togeojson data/doc.kml > data/doc.geojson && cp data/doc.geojson docs",
+    "serve": "http-server ./docs",
+    "build-data": "togeojson data/doc.kml > data/doc.geojson && cp data/doc.geojson docs && cp -r data/files docs",
     "build-html": "cp html/index.html docs",
     "build-css": "cp css/styles.css docs",
     "build": "npm run build-data && npm run build-html && npm run build-css"
@@ -24,6 +25,7 @@
   },
   "homepage": "https://github.com/DanielBaird/bleachmap#readme",
   "dependencies": {
+    "http-server": "^0.9.0",
     "togeojson": "^0.14.2"
   }
 }

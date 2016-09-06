@@ -1,2 +1,52 @@
-body { margin:0; padding:0; }
-#map { position:absolute; top:0; bottom:0; width:100%; }
+
+* {
+    margin:0; 
+    padding:0; 
+}
+header {
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    bottom: 75px;
+    left: 0;
+    right: 0;
+    padding: 0 2em;
+    font-family: sans-serif;
+    background: #39b;
+    color: rgba(255,255,255, 0.66);
+    font-weight: 100;
+    transition: 0.33s;
+}
+header:hover {
+    color: rgba(255,255,255, 1);
+}
+header h1 {
+    float: left;
+    line-height: 75px;
+    font-size: 25px;
+    font-weight: inherit;
+}
+header p {
+    float: right;
+    font-size: 15px;
+    line-height: 75px;
+}
+header a {
+    color: inherit;
+    text-decoration: inherit;
+}
+header a:hover {
+    text-decoration: underline;
+}
+
+
+#map { 
+    position:absolute; 
+    top:75px; 
+    bottom:0; 
+    width:100%; 
+}
+.mapboxgl-popup {
+    max-width: 400px;
+    font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+}
