@@ -13,12 +13,14 @@ header {
     padding: 0 2em;
     font-family: sans-serif;
     /*background: #39b;*/
-    background-image: linear-gradient(rgb(0,174,239), rgba(0,174,239, 0.25));
+    background-image: linear-gradient(rgba(0,174,239, 1), rgba(0,174,239, 0.66));
     color: rgba(255,255,255, 0.66);
+    opacity: 0.85;
     font-weight: 100;
     transition: 0.33s;
 }
 header:hover {
+    opacity: 1;
     color: rgba(255,255,255, 1);
 }
 header h1 {
