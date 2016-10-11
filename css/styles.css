@@ -12,7 +12,8 @@ header {
     right: 0;
     padding: 0 2em;
     font-family: sans-serif;
-    background: #39b;
+    /*background: #39b;*/
+    background-image: linear-gradient(rgb(0,174,239), rgba(0,174,239, 0.25));
     color: rgba(255,255,255, 0.66);
     font-weight: 100;
     transition: 0.33s;
@@ -45,9 +46,10 @@ video {
 }
 
 #map {
-    position:absolute; 
+    position:absolute;
     top: 0;
-    height: 100%;
+    bottom: 0;
+    height: 100vh;
     left: 0;
     width: 100%;
 }
