@@ -5,19 +5,22 @@
 }
 header {
     position: absolute;
-    z-index: -1;
+    z-index: 1;
     top: 0;
-    bottom: 75px;
+    height: 75px;
     left: 0;
     right: 0;
     padding: 0 2em;
     font-family: sans-serif;
-    background: #39b;
+    /*background: #39b;*/
+    background-image: linear-gradient(rgba(0,174,239, 1), rgba(0,174,239, 0.66));
     color: rgba(255,255,255, 0.66);
+    opacity: 0.85;
     font-weight: 100;
     transition: 0.33s;
 }
 header:hover {
+    opacity: 1;
     color: rgba(255,255,255, 1);
 }
 header h1 {
@@ -39,14 +42,23 @@ header a:hover {
     text-decoration: underline;
 }
 
-
-#map { 
-    position:absolute; 
-    top:75px; 
-    bottom:0; 
-    width:100%; 
+video { 
+    position: relative;
+    z-index: 99;
 }
-.mapboxgl-popup {
-    max-width: 400px;
+
+#map {
+    position:absolute;
+    top: 0;
+    bottom: 0;
+    height: 100vh;
+    left: 0;
+    width: 100%;
+}
+.mapboxgl-popup-content {
     font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+}
+.mapboxgl-popup img {
+    max-height: 400px;
+    max-width: 400px;
 }
