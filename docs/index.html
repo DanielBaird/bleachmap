@@ -17,9 +17,9 @@
 
 <!-- ######################################## -->
 
-<script src="https://api.mapbox.com/mapbox-gl-js/v0.23.0/mapbox-gl.js"></script>
+<script src="https://api.mapbox.com/mapbox-gl-js/v0.26.0/mapbox-gl.js"></script>
 <style>
-    @import url(https://api.mapbox.com/mapbox-gl-js/v0.23.0/mapbox-gl.css);
+    @import url(https://api.mapbox.com/mapbox-gl-js/v0.26.0/mapbox-gl.css);
     .wrapper.usercontent {
         padding: 0; /* sorry, overriding padding of the parent */
     }
@@ -43,17 +43,16 @@ var map = new mapboxgl.Map({
     style: 'mapbox://styles/danielbaird/cisp9od4s00002wnzi6fvgrlu'
 });
 map.on('load', function() {
-    // load the geojson..
+    // load the picture geojson..
     map.addSource('bleachpics', {
         type: 'geojson',
         "data": './doc.geojson'
     })
-    // load the geojson..
+    // load the video geojson..
     map.addSource('bleachvid', {
         type: 'geojson',
         "data": './vid.geojson'
     })
-
     // show the geojson..
     map.addLayer({
         id: 'piclayer',
@@ -68,7 +67,6 @@ map.on('load', function() {
             'circle-color': '#65ccec'
         }
     })    
-
     // show the geojson..
     map.addLayer({
         id: 'vidlayer',
@@ -90,7 +88,6 @@ map.on('load', function() {
             return;
         }
         var feature = features[0];
-        console.log(feature)
         var popup = new mapboxgl.Popup()
             .setLngLat(feature.geometry.coordinates)
             .setHTML(feature.properties.description)

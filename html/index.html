@@ -17,9 +17,9 @@
 
 <!-- ######################################## -->
 
-<script src="https://api.mapbox.com/mapbox-gl-js/v0.23.0/mapbox-gl.js"></script>
+<script src="https://api.mapbox.com/mapbox-gl-js/v0.26.0/mapbox-gl.js"></script>
 <style>
-    @import url(https://api.mapbox.com/mapbox-gl-js/v0.23.0/mapbox-gl.css);
+    @import url(https://api.mapbox.com/mapbox-gl-js/v0.26.0/mapbox-gl.css);
     .wrapper.usercontent {
         padding: 0; /* sorry, overriding padding of the parent */
     }
@@ -88,7 +88,6 @@ map.on('load', function() {
             return;
         }
         var feature = features[0];
-        console.log(feature)
         var popup = new mapboxgl.Popup()
             .setLngLat(feature.geometry.coordinates)
             .setHTML(feature.properties.description)
