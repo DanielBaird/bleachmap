@@ -14,62 +14,97 @@
     <h1>Coral Reef Observations</h1>
     <p>&copy; 2016 <a href="https://www.coralcoe.org.au/">Coral CoE</a></p>
 </header>
-<div id='map'></div>
 
+<!-- ######################################## -->
+
+<script src="https://api.mapbox.com/mapbox-gl-js/v0.23.0/mapbox-gl.js"></script>
+<style>
+    @import url(https://api.mapbox.com/mapbox-gl-js/v0.23.0/mapbox-gl.css);
+    .wrapper.usercontent {
+        padding: 0; /* sorry, overriding padding of the parent */
+    }
+    #bleachmap {
+        height: 80vh;
+        margin: 0 50px;
+    }
+    .mapboxgl-popup-content {
+        font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    }
+    .mapboxgl-popup img {
+        max-height: 40vh;
+        max-width: 60vw;
+    }
+</style>
+<div id='bleachmap'></div>
 <script>
 mapboxgl.accessToken = 'pk.eyJ1IjoiZGFuaWVsYmFpcmQiLCJhIjoiY2lzcDloOTN2MDcyMzJzcGI3bGU0ZnA4dSJ9.uHQDYQXaCiAmwYDytszyMw';
 var map = new mapboxgl.Map({
-    container: 'map',
+    container: 'bleachmap',
     style: 'mapbox://styles/danielbaird/cisp9od4s00002wnzi6fvgrlu'
 });
 map.on('load', function() {
-
     // load the geojson..
-    map.addSource('bleaching', {
+    map.addSource('bleachpics', {
         type: 'geojson',
         "data": './doc.geojson'
+    })
+    // load the geojson..
+    map.addSource('bleachvid', {
+        type: 'geojson',
+        "data": './vid.geojson'
     })
 
     // show the geojson..
     map.addLayer({
-        id: 'obslayer',
+        id: 'piclayer',
+        source: 'bleachpics',
         type: 'circle',
-        source: 'bleaching',
         'paint': {
             // make circles larger as the user zooms from zoom 4 to zoom 12
             'circle-radius': {
                 'base': 6,
                 'stops': [[4, 6], [12, 15]]
             },
-            'circle-color': '#ffffff'
+            'circle-color': '#65ccec'
         }
-    })
-    
+    })    
+
+    // show the geojson..
+    map.addLayer({
+        id: 'vidlayer',
+        source: 'bleachvid',
+        type: 'circle',
+        'paint': {
+            // make circles larger as the user zooms from zoom 4 to zoom 12
+            'circle-radius': {
+                'base': 6,
+                'stops': [[4, 6], [12, 15]]
+            },
+            'circle-color': '#f7751e'
+        }
+    })    
     // show popup on click
     map.on('click', function (e) {
-        var features = map.queryRenderedFeatures(e.point, { layers: ['obslayer'] });
+        var features = map.queryRenderedFeatures(e.point, { layers: ['piclayer', 'vidlayer'] });
         if (!features.length) {
             return;
         }
         var feature = features[0];
-
         console.log(feature)
-
         var popup = new mapboxgl.Popup()
             .setLngLat(feature.geometry.coordinates)
             .setHTML(feature.properties.description)
             .addTo(map);
     })
-
     // show mouse cursor as 'pointer'
     map.on('mousemove', function (e) {
-        var features = map.queryRenderedFeatures(e.point, { layers: ['obslayer'] });
+        var features = map.queryRenderedFeatures(e.point, { layers: ['piclayer', 'vidlayer'] });
         map.getCanvas().style.cursor = (features.length) ? 'pointer' : '';
     });
-
 })
-
 </script>
+
+<!-- ######################################## -->
 
 </body>
 </html>
