@@ -20,12 +20,14 @@
 <script src="https://api.mapbox.com/mapbox-gl-js/v0.26.0/mapbox-gl.js"></script>
 <style>
     @import url(https://api.mapbox.com/mapbox-gl-js/v0.26.0/mapbox-gl.css);
-    .wrapper.usercontent {
+    div.generic {
+        padding: 0 5vw; /* overriding parent things, sorry */
+    }
+    .wrapper.user-content {
         padding: 0; /* sorry, overriding padding of the parent */
     }
     #bleachmap {
         height: 80vh;
-        margin: 0 50px;
     }
     .mapboxgl-popup-content {
         font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
