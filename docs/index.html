@@ -20,13 +20,35 @@
 <script src="https://api.mapbox.com/mapbox-gl-js/v0.26.0/mapbox-gl.js"></script>
 <style>
     @import url(https://api.mapbox.com/mapbox-gl-js/v0.26.0/mapbox-gl.css);
-    .wrapper.usercontent {
+    div.generic {
+        padding: 0 5vw; /* overriding parent things, sorry */
+    }
+    .wrapper.user-content {
         padding: 0; /* sorry, overriding padding of the parent */
     }
     #bleachmap {
         height: 80vh;
-        margin: 0 50px;
     }
+    #legend {
+        z-index: 99999999;
+        background: rgba(255,255,255, 0.5);
+        position: absolute;
+        left: 10px;
+        bottom: 10px;
+        padding: 10px 25px;
+        xborder: 1px solid #65ccec;
+    }
+    #legend p:before {
+        content: '';
+        display: inline-block;
+        vertical-align: middle;
+        height: 1em;
+        width: 1em;
+        margin-right: 0.66em;
+        border-radius: 50%;
+    }
+    #legend p.photos:before { background-color: #65ccec; }
+    #legend p.movies:before { background-color: #f7751e; }
     .mapboxgl-popup-content {
         font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
     }
@@ -35,7 +57,12 @@
         max-width: 60vw;
     }
 </style>
-<div id='bleachmap'></div>
+<div id='bleachmap'>
+    <div id='legend'>
+        <p class='photos'>photographs</p>
+        <p class='movies'>videos</p>
+    </div>
+</div>
 <script>
 mapboxgl.accessToken = 'pk.eyJ1IjoiZGFuaWVsYmFpcmQiLCJhIjoiY2lzcDloOTN2MDcyMzJzcGI3bGU0ZnA4dSJ9.uHQDYQXaCiAmwYDytszyMw';
 var map = new mapboxgl.Map({
