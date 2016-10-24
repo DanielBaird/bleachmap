@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.6718174503368,
+                    -18.78953613169551,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WybornReef",
+                "styleUrl": "#m_ylw-pushpin",
+                "styleHash": "-72342b72",
+                "styleMapHash": {
+                    "normal": "#s_ylw-pushpin",
+                    "highlight": "#s_ylw-pushpin_hl"
+                },
+                "description": "<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/10336_WybornReef.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    148.9963428065926,
+                    -19.33312165886435,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Video Test",
+                "styleUrl": "#m_ylw-pushpin",
+                "styleHash": "-72342b72",
+                "styleMapHash": {
+                    "normal": "#s_ylw-pushpin",
+                    "highlight": "#s_ylw-pushpin_hl"
+                },
+                "description": "<video width=\"320\" height=\"240\" controls>\n  <source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/IMG_3477.MP4\" type=\"video/mp4\">\n  Your browser does not support the video tag.\n</video>\n\n\n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146.3200685834948,
+                    -17.13614037892028,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wallace Islet",
+                "styleUrl": "#m_ylw-pushpin",
+                "styleHash": "-72342b72",
+                "styleMapHash": {
+                    "normal": "#s_ylw-pushpin",
+                    "highlight": "#s_ylw-pushpin_hl"
+                },
+                "description": "<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/11055_WallaceIslet.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146.7419992042864,
+                    -18.30825082044888,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "MeggiDamunReef",
+                "styleUrl": "#m_ylw-pushpin",
+                "styleHash": "-72342b72",
+                "styleMapHash": {
+                    "normal": "#s_ylw-pushpin",
+                    "highlight": "#s_ylw-pushpin_hl"
+                },
+                "description": "<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/10326_MeggiDamunReef.jpg\"/>"
+            }
+        }
+    ]
+}

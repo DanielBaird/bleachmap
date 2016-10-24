@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>NCBTMap.kmz</name>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>NCBTMap</name>
+		<open>1</open>
+		<Placemark>
+			<name>WybornReef</name>
+			<description><![CDATA[<img src="https://data.tropicaldatahub.org/coralbleaching2016/photo/10336_WybornReef.jpg"/>]]></description>
+			<LookAt>
+				<longitude>147.743663875831</longitude>
+				<latitude>-18.97915767139716</latitude>
+				<altitude>0</altitude>
+				<heading>-0.8179487018013413</heading>
+				<tilt>1.217516108794643</tilt>
+				<range>385780.6014638424</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>147.6718174503368,-18.78953613169551,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Video Test</name>
+			<description><![CDATA[<video width="320" height="240" controls>
+  <source src="https://data.tropicaldatahub.org/coralbleaching2016/video/IMG_3477.MP4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
+]]></description>
+			<LookAt>
+				<longitude>147.743663875831</longitude>
+				<latitude>-18.97915767139716</latitude>
+				<altitude>0</altitude>
+				<heading>-0.8179487018013413</heading>
+				<tilt>1.217516108794643</tilt>
+				<range>385780.6014638424</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>148.9963428065926,-19.33312165886435,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Wallace Islet</name>
+			<description><![CDATA[<img src="https://data.tropicaldatahub.org/coralbleaching2016/photo/11055_WallaceIslet.jpg"/>]]></description>
+			<LookAt>
+				<longitude>147.1200418647861</longitude>
+				<latitude>-17.74596729106894</latitude>
+				<altitude>0</altitude>
+				<heading>-0.6078832017319677</heading>
+				<tilt>1.217699092433927</tilt>
+				<range>386738.203674931</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>146.3200685834948,-17.13614037892028,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MeggiDamunReef</name>
+			<description><![CDATA[<img src="https://data.tropicaldatahub.org/coralbleaching2016/photo/10326_MeggiDamunReef.jpg"/>]]></description>
+			<LookAt>
+				<longitude>146.45363685013</longitude>
+				<latitude>-18.30018089714486</latitude>
+				<altitude>0</altitude>
+				<heading>-0.4200125073077011</heading>
+				<tilt>1.217508040607454</tilt>
+				<range>385737.5900781741</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>146.7419992042864,-18.30825082044888,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

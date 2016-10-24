@@ -1,0 +1,1415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>videos.kmz</name>
+	<Style id="sh_wht-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.75</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_wht-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_wht-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.75</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Folder>
+		<name>videos</name>
+		<Placemark>
+			<name>Piper Reef</name>
+			<description><![CDATA[Piper Reef
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/12012-PiperReef.mp4" type="video/mp4"></video>]]></description>
+			<LookAt>
+				<longitude>143.170297723699</longitude>
+				<latitude>-12.25496119725854</latitude>
+				<altitude>0</altitude>
+				<heading>-4.536412308977661</heading>
+				<tilt>0</tilt>
+				<range>20780.01974250052</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>143.2370896033408,-12.25237270768854,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Zenith Reef</name>
+			<description><![CDATA[Zenith Reef
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/12115-ZenithReef.mp4" type="video/mp4"></video>]]></description>
+			<LookAt>
+				<longitude>143.6010627458624</longitude>
+				<latitude>-12.76079943648183</latitude>
+				<altitude>0</altitude>
+				<heading>-4.628416811812849</heading>
+				<tilt>3.865909471193611</tilt>
+				<range>8117.27043722221</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>143.6022204946068,-12.76644287427392,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ChapmanIsland</name>
+			<description><![CDATA[Chapman Island
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/12129-Chapman-ForMediaRelease-1.mp4" type="video/mp4"></video>]]></description>
+			<LookAt>
+				<longitude>143.6015069899447</longitude>
+				<latitude>-12.88569407981584</latitude>
+				<altitude>0</altitude>
+				<heading>-4.627829182001182</heading>
+				<tilt>13.30432318095538</tilt>
+				<range>2716.784514218829</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>143.6008111092383,-12.88674079659791,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sherrard Island</name>
+			<description><![CDATA[Sherrard Island
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/12145-SherrardReef.mp4" type="video/mp4"></video>]]></description>
+			<LookAt>
+				<longitude>143.6124827503857</longitude>
+				<latitude>-12.96567210610853</latitude>
+				<altitude>0</altitude>
+				<heading>-4.63114819681106</heading>
+				<tilt>16.05783447430239</tilt>
+				<range>9469.939680211252</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>143.6149334030139,-12.98977800015652,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hay Island</name>
+			<description><![CDATA[Hay Island
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/13083-HayIsland.mp4" type="video/mp4"></video>]]></description>
+			<LookAt>
+				<longitude>143.7061077343827</longitude>
+				<latitude>-13.66509695845214</latitude>
+				<altitude>0</altitude>
+				<heading>-4.629779096075922</heading>
+				<tilt>15.64724787938639</tilt>
+				<range>6731.218742031982</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>143.691887063615,-13.66998109578391,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hampton Island</name>
+			<description><![CDATA[Hampton Island
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/14102-HamptonIsland.mp4" type="video/mp4"></video>]]></description>
+			<Camera>
+				<longitude>144.8959613577941</longitude>
+				<latitude>-14.55452563627298</latitude>
+				<altitude>12197.51870927121</altitude>
+				<heading>-3.677491043085003</heading>
+				<tilt>0.9755207388250594</tilt>
+				<roll>1.349241391970496</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>144.8895342712301,-14.56183769380046,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dungeness Reef</name>
+			<description><![CDATA[Dungeness Reef
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/09376-DungenessSouth.mp4" type="video/mp4"></video>]]></description>
+			<LookAt>
+				<longitude>142.9679685517361</longitude>
+				<latitude>-9.97657086517272</latitude>
+				<altitude>0</altitude>
+				<heading>-4.342046311046818</heading>
+				<tilt>6.225326423534808</tilt>
+				<range>18293.69000147224</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>142.9715779381621,-9.975211849565785,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Womer Cay</name>
+			<description><![CDATA[Womer Cay
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/10338-WomerCay.mp4" type="video/mp4"></video>]]></description>
+			<LookAt>
+				<longitude>142.9947963916663</longitude>
+				<latitude>-10.81711194905462</latitude>
+				<altitude>0</altitude>
+				<heading>-0.01134640410751801</heading>
+				<tilt>3.047475603218313</tilt>
+				<range>15652.85863244651</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>142.9828135287977,-10.79994654262299,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Shortland Reef</name>
+			<description><![CDATA[Shortland Reef
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/10341-ShortlandReef.mp4" type="video/mp4"></video>]]></description>
+			<LookAt>
+				<longitude>142.790441402865</longitude>
+				<latitude>-10.90005244738207</latitude>
+				<altitude>0</altitude>
+				<heading>0.02753135949062966</heading>
+				<tilt>1.690435448428013</tilt>
+				<range>13334.8910333517</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>142.7735232452949,-10.90281425313516,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Douglas Islet</name>
+			<description><![CDATA[Douglas Islet
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/11038-DouglasIslet.mp4" type="video/mp4"></video>]]></description>
+			<LookAt>
+				<longitude>143.0034384149223</longitude>
+				<latitude>-11.26611187998668</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0145334199320602</heading>
+				<tilt>2.638882829495231</tilt>
+				<range>13669.71303730183</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>142.9992297983216,-11.24421928255537,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jardine Islet</name>
+			<description><![CDATA[Jardine Islet
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/11053-JardineIslet.mp4" type="video/mp4"></video>]]></description>
+			<LookAt>
+				<longitude>143.0249757640529</longitude>
+				<latitude>-11.39385748647336</latitude>
+				<altitude>0</altitude>
+				<heading>-0.01914130876357147</heading>
+				<tilt>7.310038233836334</tilt>
+				<range>9139.486745512288</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>143.0348508457575,-11.38588034397166,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11-114</name>
+			<description><![CDATA[Reef 11-114
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/11114.mp4" type="video/mp4"></video>]]></description>
+			<LookAt>
+				<longitude>144.0290124901412</longitude>
+				<latitude>-11.03180055256908</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2185702282085295</heading>
+				<tilt>5.983469170469657</tilt>
+				<range>9798.801366082975</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>144.027281580451,-11.04748011424847,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11-118</name>
+			<description><![CDATA[Reef 11-118
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/11118.mp4" type="video/mp4"></video>]]></description>
+			<LookAt>
+				<longitude>144.0367082348559</longitude>
+				<latitude>-11.11914595098933</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2200272812462636</heading>
+				<tilt>5.98441152566637</tilt>
+				<range>10138.39997271314</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>144.0399728857069,-11.13272770774462,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pirie Islet</name>
+			<description><![CDATA[Pirie Islet
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/11134-PirieIslet.mp4" type="video/mp4"></video>]]></description>
+			<LookAt>
+				<longitude>142.924160347828</longitude>
+				<latitude>-11.60316313002764</latitude>
+				<altitude>0</altitude>
+				<heading>-1.557133575534898e-009</heading>
+				<tilt>0</tilt>
+				<range>12504.35844140395</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>142.8991092477787,-11.59057996534443,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hannibal Islands</name>
+			<description><![CDATA[Hannibal Islands
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/11136-HannibalIslands.mp4" type="video/mp4"></video>]]></description>
+			<LookAt>
+				<longitude>142.9487726800845</longitude>
+				<latitude>-11.60690296572989</latitude>
+				<altitude>0</altitude>
+				<heading>-0.004948536260622781</heading>
+				<tilt>0</tilt>
+				<range>12506.05082220306</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>142.9394365134639,-11.59744712576431,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11-201</name>
+			<description><![CDATA[Reef 11-201
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/11201.mp4" type="video/mp4"></video>]]></description>
+			<LookAt>
+				<longitude>143.9014481972214</longitude>
+				<latitude>-11.53954635476763</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1961449989459668</heading>
+				<tilt>3.63739736265221</tilt>
+				<range>8661.393884681154</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>143.8695616133135,-11.53407726240797,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11-204</name>
+			<description><![CDATA[Reef 11-204
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/11204.mp4" type="video/mp4"></video>]]></description>
+			<LookAt>
+				<longitude>143.8927538651253</longitude>
+				<latitude>-11.54346207658032</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1944045024351528</heading>
+				<tilt>3.637970510043345</tilt>
+				<range>8963.983405758214</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>143.8660146896152,-11.55015818097922,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Beesley Island</name>
+			<description><![CDATA[Beesley Island
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/12011-BeesleyIsland.mp4" type="video/mp4"></video>]]></description>
+			<LookAt>
+				<longitude>143.2169425360042</longitude>
+				<latitude>-12.26401260990084</latitude>
+				<altitude>0</altitude>
+				<heading>-0.04912823655763242</heading>
+				<tilt>8.09311160885631</tilt>
+				<range>7508.701723442377</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>143.2012648835428,-12.2409775164117,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Daniell Reef</name>
+			<description><![CDATA[Daniell Reef
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/12018-DaniellReef.mp4" type="video/mp4"></video>]]></description>
+			<LookAt>
+				<longitude>143.1946971718964</longitude>
+				<latitude>-12.30807919684339</latitude>
+				<altitude>0</altitude>
+				<heading>-0.04438786187491289</heading>
+				<tilt>8.1059124131726</tilt>
+				<range>15774.59090234592</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>143.1997702517533,-12.31426161677627,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Wye Reef</name>
+			<description><![CDATA[Wye Reef
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/12119-WyeReef.mp4" type="video/mp4"></video>]]></description>
+			<LookAt>
+				<longitude>143.6280717186971</longitude>
+				<latitude>-12.80943547085148</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1540645421146196</heading>
+				<tilt>11.58180333783026</tilt>
+				<range>9465.603786402748</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>143.6092063971552,-12.8092793061539,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hannah Island</name>
+			<description><![CDATA[Hannah Island
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/13097-HannahIsland.mp4" type="video/mp4"></video>]]></description>
+			<LookAt>
+				<longitude>143.7841956456115</longitude>
+				<latitude>-13.88325634432008</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1463425262817074</heading>
+				<tilt>9.433924886952315</tilt>
+				<range>36794.59067071125</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>143.7193637464459,-13.86698254090099,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Burkitt Island</name>
+			<description><![CDATA[Burkitt Island
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/13111-BurkittIsland.mp4" type="video/mp4"></video>]]></description>
+			<LookAt>
+				<longitude>143.7903966902619</longitude>
+				<latitude>-13.91690106994136</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1478391692995078</heading>
+				<tilt>9.42299039213734</tilt>
+				<range>28736.95321487459</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>143.7546464775454,-13.94067010454516,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Fahey Reef</name>
+			<description><![CDATA[Fahey Reef
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/14006-FaheyReef.mp4" type="video/mp4"></video>]]></description>
+			<LookAt>
+				<longitude>143.8851671799568</longitude>
+				<latitude>-14.07111604566075</latitude>
+				<altitude>0</altitude>
+				<heading>-0.192913712928671</heading>
+				<tilt>12.04198575877535</tilt>
+				<range>13910.75999916289</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>143.8586601526443,-14.06515890650747,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Baron Reef</name>
+			<description><![CDATA[Baron Reef
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/14070-BaronReef.mp4" type="video/mp4"></video>]]></description>
+			<LookAt>
+				<longitude>144.7060091375061</longitude>
+				<latitude>-14.48930757010684</latitude>
+				<altitude>0</altitude>
+				<heading>-0.4365804280879218</heading>
+				<tilt>11.57136007646184</tilt>
+				<range>5599.03021275103</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>144.6977227036954,-14.475398090377,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Weigall Reefs</name>
+			<description><![CDATA[Weigall Reefs
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/14071b-WeigallReefB.mp4" type="video/mp4"></video>]]></description>
+			<LookAt>
+				<longitude>144.6784378235643</longitude>
+				<latitude>-14.49065618740094</latitude>
+				<altitude>0</altitude>
+				<heading>-0.4276322931268438</heading>
+				<tilt>11.49895694967419</tilt>
+				<range>11772.21419296344</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>144.6421178199765,-14.47596789188304,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Leggatt Island</name>
+			<description><![CDATA[Leggatt Island
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/14099-LeggattIsland.mp4" type="video/mp4"></video>]]></description>
+			<LookAt>
+				<longitude>144.8701576866801</longitude>
+				<latitude>-14.55783648567037</latitude>
+				<altitude>0</altitude>
+				<heading>-0.5196300082393413</heading>
+				<tilt>14.30897581334665</tilt>
+				<range>4931.784471830864</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>144.8687739375866,-14.54744105707634,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sinclair and Morris Islands</name>
+			<description><![CDATA[Sinclair and Morris Islands
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/14101ab-Sinclair&MorrisIsland.mp4" type="video/mp4"></video>]]></description>
+			<LookAt>
+				<longitude>144.9111658874206</longitude>
+				<latitude>-14.56150134110646</latitude>
+				<altitude>0</altitude>
+				<heading>-0.52993798428392</heading>
+				<tilt>14.30992281744147</tilt>
+				<range>4932.661212832231</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>144.9053301416569,-14.55394348805184,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ribbon Reef No. 3</name>
+			<description><![CDATA[Ribbon Reef No. 3
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/15050-RibbonNo3_LHS.mp4" type="video/mp4"></video>]]></description>
+			<Camera>
+				<longitude>145.8401028175277</longitude>
+				<latitude>-15.49168020474661</latitude>
+				<altitude>26689.24811812722</altitude>
+				<heading>51.8637257714133</heading>
+				<tilt>0.05167226408685161</tilt>
+				<roll>52.82779474936582</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>145.8104991414934,-15.49268276024728,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pearl Reef</name>
+			<description><![CDATA[Pearl Reef
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/15087-PearlReef_RHS.mp4" type="video/mp4"></video>]]></description>
+			<Camera>
+				<longitude>145.8061194049091</longitude>
+				<latitude>-15.71387526491616</latitude>
+				<altitude>13297.73798172944</altitude>
+				<heading>-0.1294038256977175</heading>
+				<tilt>2.855775406915936</tilt>
+				<roll>0.8264421941768143</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>145.8012360578039,-15.71759615600654,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Escape Reef</name>
+			<description><![CDATA[Escape Reef
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/15094-EscapeReef_LHS.mp4" type="video/mp4"></video>]]></description>
+			<Camera>
+				<longitude>145.8364780572165</longitude>
+				<latitude>-15.89019930015822</latitude>
+				<altitude>13409.97255643845</altitude>
+				<heading>-0.1377000521309435</heading>
+				<tilt>2.855775406915807</tilt>
+				<roll>0.8264421941769607</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>145.8129440044986,-15.88053863901097,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Opal Reef</name>
+			<description><![CDATA[Opal Reef
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/16025-OpalReef_LHS.mp4" type="video/mp4"></video>]]></description>
+			<Camera>
+				<longitude>145.850511080099</longitude>
+				<latitude>-16.25970768247639</latitude>
+				<altitude>47570.55510187594</altitude>
+				<heading>-0.01289608441614299</heading>
+				<tilt>2.470927999965145</tilt>
+				<roll>0.9445184497373728</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>145.8964105302302,-16.22188476068089,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sudbury Reef</name>
+			<description><![CDATA[Sudbury Reef
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/17001a-SudburyReef_LHS.mp4" type="video/mp4"></video>]]></description>
+			<Camera>
+				<longitude>146.2027859852347</longitude>
+				<latitude>-16.98196389546114</latitude>
+				<altitude>19015.72152796419</altitude>
+				<heading>-0.1745568888046359</heading>
+				<tilt>2.642344248372861</tilt>
+				<roll>0.8836772877991737</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>146.1872052033345,-17.00154525675339,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Elford Reef</name>
+			<description><![CDATA[Elford Reef
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/16073-ElfordReef_RHS.mp4" type="video/mp4"></video>]]></description>
+			<Camera>
+				<longitude>146.2708714473634</longitude>
+				<latitude>-16.89994836309544</latitude>
+				<altitude>19014.07495020852</altitude>
+				<heading>-0.1943727804522812</heading>
+				<tilt>2.642344248373137</tilt>
+				<roll>0.8836772877992946</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>146.2607024609782,-16.92630080556079,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Noggin Reef</name>
+			<description><![CDATA[Noggin Reef
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/17008-NogginReef_RHS.mp4" type="video/mp4"></video>]]></description>
+			<Camera>
+				<longitude>146.4809955162109</longitude>
+				<latitude>-17.10327802099078</latitude>
+				<altitude>23904.8246003993</altitude>
+				<heading>-0.2564164020606621</heading>
+				<tilt>2.642935155787079</tilt>
+				<roll>0.8831610870374371</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>146.4721893851808,-17.1288978311832,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Michaelmas Reef</name>
+			<description><![CDATA[Michaelmas Reef
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/16060-MichaelmasReef_LHS.mp4" type="video/mp4"></video>]]></description>
+			<Camera>
+				<longitude>146.0549861011479</longitude>
+				<latitude>-16.53576894524106</latitude>
+				<altitude>23114.66454660795</altitude>
+				<heading>-0.07064979942561962</heading>
+				<tilt>2.471206295411155</tilt>
+				<roll>0.9455932805164413</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>146.0271765301633,-16.5867353014448,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>17-067</name>
+			<description><![CDATA[Reef 17-067
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/17067_LHS.mp4" type="video/mp4"></video>]]></description>
+			<Camera>
+				<longitude>146.6700165389969</longitude>
+				<latitude>-18.0243446635404</latitude>
+				<altitude>38266.72310617337</altitude>
+				<heading>0.3421435539593984</heading>
+				<tilt>1.516689945648871</tilt>
+				<roll>1.560171904813008</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>146.6066894713202,-17.97087850333445,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Moore Reef</name>
+			<description><![CDATA[Moore Reef
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/16071-MooreReef_LHS.mp4" type="video/mp4"></video>]]></description>
+			<Camera>
+				<longitude>146.2815027165289</longitude>
+				<latitude>-16.8632787087079</latitude>
+				<altitude>19052.92503186634</altitude>
+				<heading>-0.1974498037071633</heading>
+				<tilt>2.642344248372585</tilt>
+				<roll>0.8836772877988921</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>146.2436984943263,-16.87387866418493,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Otter Reef</name>
+			<description><![CDATA[Otter Reef
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/18018-OtterReef_LHS.mp4" type="video/mp4"></video>]]></description>
+			<Camera>
+				<longitude>146.6700165389969</longitude>
+				<latitude>-18.0243446635404</latitude>
+				<altitude>38266.72310617337</altitude>
+				<heading>0.3421435539593984</heading>
+				<tilt>1.516689945648871</tilt>
+				<roll>1.560171904813008</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>146.5805246298716,-18.06234695830315,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pith Reef</name>
+			<description><![CDATA[Pith Reef
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/18033-PithReef_RHS.mp4" type="video/mp4"></video>]]></description>
+			<Camera>
+				<longitude>147.0214437979716</longitude>
+				<latitude>-18.19197925338022</latitude>
+				<altitude>33180.55574872619</altitude>
+				<heading>-0.2210836106555023</heading>
+				<tilt>2.137129143427643</tilt>
+				<roll>1.110643871049309</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>147.0266729396774,-18.20690692646653,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rib Reef</name>
+			<description><![CDATA[Rib Reef
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/18032-RibReef_RHS.mp4" type="video/mp4"></video>]]></description>
+			<Camera>
+				<longitude>146.9202995953927</longitude>
+				<latitude>-18.50153932499351</latitude>
+				<altitude>33214.55379201398</altitude>
+				<heading>-0.1892007764672418</heading>
+				<tilt>2.137369396855117</tilt>
+				<roll>1.110643998304895</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>146.8781874596219,-18.48605346376532,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Myrmidon Reef</name>
+			<description><![CDATA[ Myrmidon Reef
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/18034-MyrmidonReef_LHS.mp4" type="video/mp4"></video>]]></description>
+			<Camera>
+				<longitude>147.4015225509019</longitude>
+				<latitude>-18.27002736664088</latitude>
+				<altitude>11786.06138151871</altitude>
+				<heading>-0.9312894835526564</heading>
+				<tilt>4.498062679320062</tilt>
+				<roll>0.5337524016033441</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>147.3875914120923,-18.26668117906908,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Fantome Island</name>
+			<description><![CDATA[Fantome Island
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/18053-FantomeIsland_LHS.mp4" type="video/mp4"></video>]]></description>
+			<Camera>
+				<longitude>146.5314733416053</longitude>
+				<latitude>-18.69840701781835</latitude>
+				<altitude>33772.11905687228</altitude>
+				<heading>-0.642194348774128</heading>
+				<tilt>4.41756092712137</tilt>
+				<roll>0.5546249045081253</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>146.5207915096819,-18.68673284392445,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bugatti Reef</name>
+			<description><![CDATA[Bugatti Reef
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/20127-BugattiReef_RHS.mp4" type="video/mp4"></video>]]></description>
+			<Camera>
+				<longitude>150.3100170455072</longitude>
+				<latitude>-20.09391529992118</latitude>
+				<altitude>41730.15501731738</altitude>
+				<heading>51.49668073489556</heading>
+				<tilt>0.0515855379336302</tilt>
+				<roll>53.91337411688131</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>150.3151161340745,-20.10219352227207,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Reimer Reef</name>
+			<description><![CDATA[Reimer Reef
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/19152-ReimerReef_RHS.mp4" type="video/mp4"></video>]]></description>
+			<Camera>
+				<longitude>149.9027494843288</longitude>
+				<latitude>-19.66556413296281</latitude>
+				<altitude>15290.6681568908</altitude>
+				<heading>0.7099674712590611</heading>
+				<tilt>0.799421121208982</tilt>
+				<roll>2.989177704400558</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>149.8790968215023,-19.63484023543289,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20-126</name>
+			<description><![CDATA[Reef 20-126
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/20126_RHS.mp4" type="video/mp4"></video>]]></description>
+			<Camera>
+				<longitude>150.3824150805716</longitude>
+				<latitude>-20.14775045193025</latitude>
+				<altitude>20824.99029768723</altitude>
+				<heading>0.7533607036470255</heading>
+				<tilt>0.7471379896391892</tilt>
+				<roll>3.201591596722204</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>150.3776879056148,-20.16230234125284,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Robertson Reef No. 2</name>
+			<description><![CDATA[Robertson Reef No. 2
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/20136-RobertsonReefNo2_LHS.mp4" type="video/mp4"></video>]]></description>
+			<Camera>
+				<longitude>150.1301493516467</longitude>
+				<latitude>-20.3055975634381</latitude>
+				<altitude>42016.55808554807</altitude>
+				<heading>0.8398074203307374</heading>
+				<tilt>0.7473037874726844</tilt>
+				<roll>3.201959756101903</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>150.0654240814837,-20.35171387892284,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20-172</name>
+			<description><![CDATA[Reef 20-172
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/20172.mp4" type="video/mp4"></video>]]></description>
+			<Camera>
+				<longitude>150.5688450360028</longitude>
+				<latitude>-20.28994801500213</latitude>
+				<altitude>12723.92894154373</altitude>
+				<heading>-1.760006425663706</heading>
+				<tilt>3.163175262192431</tilt>
+				<roll>0.7572492900387339</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>150.5586469888966,-20.27840402250748,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20-179</name>
+			<description><![CDATA[Reef 20-179
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/20179_RHS.mp4" type="video/mp4"></video>]]></description>
+			<Camera>
+				<longitude>150.612364670994</longitude>
+				<latitude>-20.31562836772348</latitude>
+				<altitude>12723.856796724</altitude>
+				<heading>-1.77510364006645</heading>
+				<tilt>3.163175262192661</tilt>
+				<roll>0.7572492900388007</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>150.6039741971627,-20.3129407449671,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20-185c</name>
+			<description><![CDATA[Reef 20-185c
+<video controls><source src="\https://data.tropicaldatahub.org/coralbleaching2016/video/20185c_LHS.mp4" type="video/mp4"></video>]]></description>
+			<Camera>
+				<longitude>150.6566386169648</longitude>
+				<latitude>-20.34967376424763</latitude>
+				<altitude>12723.47946875061</altitude>
+				<heading>-1.790499927709641</heading>
+				<tilt>3.163175262192316</tilt>
+				<roll>0.7572492900385607</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>150.6553190205577,-20.33434219615445,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20-197</name>
+			<description><![CDATA[Reef 20-197
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/20197_LHS.mp4" type="video/mp4"></video>]]></description>
+			<Camera>
+				<longitude>150.7218100541826</longitude>
+				<latitude>-20.46227423569487</latitude>
+				<altitude>12724.86171383083</altitude>
+				<heading>-1.813164535545228</heading>
+				<tilt>3.163175262192546</tilt>
+				<roll>0.757249290038403</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>150.7208945332805,-20.4507737064336,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Big Stevens Reef</name>
+			<description><![CDATA[Big Stevens Reef
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/20295-BigStevensReef_RHS.mp4" type="video/mp4"></video>]]></description>
+			<Camera>
+				<longitude>150.194720681657</longitude>
+				<latitude>-20.6283120500632</latitude>
+				<altitude>50051.28989435238</altitude>
+				<heading>-1.515838608062113</heading>
+				<tilt>2.747814616438801</tilt>
+				<roll>0.842047659994615</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>150.1220773697507,-20.57310836100587,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Southampton Reef</name>
+			<description><![CDATA[Southampton Reef
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/20299c-SouthamptonReef_LHS.mp4" type="video/mp4"></video>]]></description>
+			<Camera>
+				<longitude>150.4779957590557</longitude>
+				<latitude>-20.65380787666953</latitude>
+				<altitude>27916.44127552275</altitude>
+				<heading>-1.615873380820335</heading>
+				<tilt>2.748121025789</tilt>
+				<roll>0.8424661301799995</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>150.4613476230153,-20.65427456527666,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cockatoo Reef</name>
+			<description><![CDATA[Cockatoo Reef
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/20369a-CockatooReef_LHS.mp4" type="video/mp4"></video>]]></description>
+			<Camera>
+				<longitude>150.8667087400533</longitude>
+				<latitude>-20.79756417370133</latitude>
+				<altitude>68986.198735004</altitude>
+				<heading>-0.9933452335530455</heading>
+				<tilt>1.434709392969329</tilt>
+				<roll>1.59314040489376</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>150.9862678393076,-20.74301103974502,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Molar Reef</name>
+			<description><![CDATA[Molar Reef
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/20326-MolarReef_RHS.mp4" type="video/mp4"></video>]]></description>
+			<Camera>
+				<longitude>150.8667087400533</longitude>
+				<latitude>-20.79756417370133</latitude>
+				<altitude>68986.198735004</altitude>
+				<heading>-0.9933452335530455</heading>
+				<tilt>1.434709392969329</tilt>
+				<roll>1.59314040489376</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>150.7999626306059,-20.63286163461114,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rip Reef</name>
+			<description><![CDATA[Rip Reef
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/20370a-RipReef_LHS.mp4" type="video/mp4"></video>]]></description>
+			<Camera>
+				<longitude>151.0718500840212</longitude>
+				<latitude>-20.81285432835224</latitude>
+				<altitude>31990.79007813256</altitude>
+				<heading>-1.066278329002411</heading>
+				<tilt>1.434870439333063</tilt>
+				<roll>1.59422137215582</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>151.0683466185843,-20.79540706498125,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20-382</name>
+			<description><![CDATA[Reef 20-382
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/20382_RHS.mp4" type="video/mp4"></video>]]></description>
+			<Camera>
+				<longitude>151.2007107378634</longitude>
+				<latitude>-20.83914787824531</latitude>
+				<altitude>31991.0904021073</altitude>
+				<heading>-1.11210323763841</heading>
+				<tilt>1.434870439333063</tilt>
+				<roll>1.59422137215555</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>151.2940991280161,-20.88587256439452,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20-388a</name>
+			<description><![CDATA[Reef 20-388a
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/20388a_RHS.mp4" type="video/mp4"></video>]]></description>
+			<Camera>
+				<longitude>151.3930272314658</longitude>
+				<latitude>-20.94871362791864</latitude>
+				<altitude>31993.29287050989</altitude>
+				<heading>-1.180744131034972</heading>
+				<tilt>1.434870439333063</tilt>
+				<roll>1.594221372155695</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>151.3551875707448,-20.96156950784363,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20-568</name>
+			<description><![CDATA[Reef 20-568
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/20568_RHS.mp4" type="video/mp4"></video>]]></description>
+			<Camera>
+				<longitude>151.3930272314658</longitude>
+				<latitude>-20.94871362791864</latitude>
+				<altitude>31993.29287050989</altitude>
+				<heading>-1.180744131034972</heading>
+				<tilt>1.434870439333063</tilt>
+				<roll>1.594221372155695</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>151.3687577781673,-20.93860939603005,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>21-109</name>
+			<description><![CDATA[Reef 21-109
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/21109_RHS.mp4" type="video/mp4"></video>]]></description>
+			<Camera>
+				<longitude>151.1672059506011</longitude>
+				<latitude>-21.13881215248987</latitude>
+				<altitude>32006.0696227221</altitude>
+				<heading>-1.099528381533368</heading>
+				<tilt>1.434870439333063</tilt>
+				<roll>1.594221372155573</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>151.072452346281,-21.1258707312144,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nancy Foster Reef</name>
+			<description><![CDATA[Nancy Foster Reef
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/21131-NancyFosterReef_LHS.mp4" type="video/mp4"></video>]]></description>
+			<Camera>
+				<longitude>151.4320756153346</longitude>
+				<latitude>-21.4098153370765</latitude>
+				<altitude>31992.10861114362</altitude>
+				<heading>-1.195946150333248</heading>
+				<tilt>1.434870439333063</tilt>
+				<roll>1.594221372155563</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>151.366075294589,-21.38288469647197,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>21-147</name>
+			<description><![CDATA[Reef 21-147
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/21147_RHS.mp4" type="video/mp4"></video>]]></description>
+			<Camera>
+				<longitude>151.6408595956578</longitude>
+				<latitude>-21.07124017187258</latitude>
+				<altitude>19322.97976499805</altitude>
+				<heading>-1.270728239842793</heading>
+				<tilt>1.435194621224051</tilt>
+				<roll>1.591717599715503</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>151.6623815570792,-21.07183133084847,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>21-464</name>
+			<description><![CDATA[Reef 21-464
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/21464_RHS.mp4" type="video/mp4"></video>]]></description>
+			<Camera>
+				<longitude>151.818668491195</longitude>
+				<latitude>-21.70589610133591</latitude>
+				<altitude>40178.51421943693</altitude>
+				<heading>77.39370936253623</heading>
+				<tilt>0.04020966646283802</tilt>
+				<roll>80.28539241313561</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>151.7698165347721,-21.76933348267649,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Riptide Cay</name>
+			<description><![CDATA[Reef 21-464
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/21464_RHS.mp4" type="video/mp4"></video>]]></description>
+			<Camera>
+				<longitude>151.8450012386292</longitude>
+				<latitude>-21.27299581847673</latitude>
+				<altitude>19330.73804652889</altitude>
+				<heading>-1.34441243372192</heading>
+				<tilt>1.435194621223797</tilt>
+				<roll>1.591717599715147</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>151.8451394946071,-21.24165334354909,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>21-185</name>
+			<description><![CDATA[Reef 21-185
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/21185_LHS.mp4" type="video/mp4"></video>]]></description>
+			<Camera>
+				<longitude>151.9089058672821</longitude>
+				<latitude>-21.42332638901111</latitude>
+				<altitude>40174.48908664164</altitude>
+				<heading>77.36093896792606</heading>
+				<tilt>0.04020966644470569</tilt>
+				<roll>80.28539241314438</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>151.9014247164147,-21.3998994750043,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>21-263</name>
+			<description><![CDATA[Reef 21-263
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/21263_LHS.mp4" type="video/mp4"></video>]]></description>
+			<Camera>
+				<longitude>152.4954457385777</longitude>
+				<latitude>-21.3880514588242</latitude>
+				<altitude>18610.84779220369</altitude>
+				<heading>14.76734973513516</heading>
+				<tilt>0.1289626171860961</tilt>
+				<roll>17.90554353574992</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>152.4883114894986,-21.41732547979644,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>21-491</name>
+			<description><![CDATA[Reef 21-491
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/21491_RHS.mp4" type="video/mp4"></video>]]></description>
+			<Camera>
+				<longitude>152.5003322813159</longitude>
+				<latitude>-21.60211413071522</latitude>
+				<altitude>26121.57194624367</altitude>
+				<heading>14.76669356268923</heading>
+				<tilt>0.1289771915556048</tilt>
+				<roll>17.90667716635438</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>152.4743947705648,-21.61141138807028,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>21-546</name>
+			<description><![CDATA[Reef 21-546
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/21546_RHS.mp4" type="video/mp4"></video>]]></description>
+			<Camera>
+				<longitude>152.4820139099213</longitude>
+				<latitude>-21.93013735181901</latitude>
+				<altitude>25030.18777193264</altitude>
+				<heading>21.36397293565687</heading>
+				<tilt>0.09565522055230159</tilt>
+				<roll>24.49756403616982</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>152.4922004822602,-21.93240350510818,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Follett Reef</name>
+			<description><![CDATA[Follett Reef
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/21586-FollettReef_LHS.mp4" type="video/mp4"></video>]]></description>
+			<LookAt>
+				<longitude>152.6448567770344</longitude>
+				<latitude>-21.88306735895997</latitude>
+				<altitude>0</altitude>
+				<heading>-2.795894276069734</heading>
+				<tilt>5.709826066162002</tilt>
+				<range>27754.11356068617</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>152.701412211835,-21.96691377892796,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sandshoe Reef</name>
+			<description><![CDATA[Sandshoe Reef
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/22133-SandshoeReef_LHS.mp4" type="video/mp4"></video>]]></description>
+			<LookAt>
+				<longitude>152.7647005043313</longitude>
+				<latitude>-22.1777319781987</latitude>
+				<altitude>0</altitude>
+				<heading>-2.840716872007522</heading>
+				<tilt>5.709848852166026</tilt>
+				<range>27779.63326119779</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>152.7551528913912,-22.21464249830808,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Morilug Reef</name>
+			<description><![CDATA[Morilug Reef
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/99304-MorilugReef.mp4" type="video/mp4"></video>]]></description>
+			<LookAt>
+				<longitude>142.6866430837683</longitude>
+				<latitude>-10.63782213441464</latitude>
+				<altitude>0</altitude>
+				<heading>0.007502450498330347</heading>
+				<tilt>6.160994991239959</tilt>
+				<range>4631.872588525049</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>142.679309520215,-10.64196811996567,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Wap Reef</name>
+			<description><![CDATA[Wap Reef
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/99461-WapReef.mp4" type="video/mp4"></video>]]></description>
+			<LookAt>
+				<longitude>143.3950481294215</longitude>
+				<latitude>-10.54474140755865</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2458535017208579</heading>
+				<tilt>9.161238186820842</tilt>
+				<range>22208.79915971638</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>143.3511295737504,-10.54531311420733,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hastings Reef</name>
+			<description><![CDATA[Hastings Reef
+<video controls><source src="https://data.tropicaldatahub.org/coralbleaching2016/video/16057-HastingsReef_LHS.mp4" type="video/mp4"></video>]]></description>
+			<Camera>
+				<longitude>146.0549861011479</longitude>
+				<latitude>-16.53576894524106</latitude>
+				<altitude>23114.66454660795</altitude>
+				<heading>-0.07064979942561962</heading>
+				<tilt>2.471206295411155</tilt>
+				<roll>0.9455932805164413</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>146.0191138474,-16.51952845602227,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

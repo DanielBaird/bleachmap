@@ -6,20 +6,20 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    146.6718174503368,
-                    -18.78953613169551,
+                    143.2370896033408,
+                    -12.25237270768854,
                     0
                 ]
             },
             "properties": {
-                "name": "WybornReef",
-                "styleUrl": "#m_ylw-pushpin",
-                "styleHash": "-72342b72",
+                "name": "Piper Reef",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
                 "styleMapHash": {
-                    "normal": "#s_ylw-pushpin",
-                    "highlight": "#s_ylw-pushpin_hl"
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
                 },
-                "description": "<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/10336_WybornReef.jpg\"/>"
+                "description": "Piper Reef\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/12012-PiperReef.mp4\" type=\"video/mp4\"></video>"
             }
         },
         {
@@ -27,20 +27,20 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    147.9963428065926,
-                    -19.33312165886435,
+                    143.6022204946068,
+                    -12.76644287427392,
                     0
                 ]
             },
             "properties": {
-                "name": "Video Test",
-                "styleUrl": "#m_ylw-pushpin",
-                "styleHash": "-72342b72",
+                "name": "Zenith Reef",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
                 "styleMapHash": {
-                    "normal": "#s_ylw-pushpin",
-                    "highlight": "#s_ylw-pushpin_hl"
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
                 },
-                "description": "<video width=\"320\" height=\"240\" controls>\n  <source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/IMG_3477.MP4\" type=\"video/mp4\">\n  Your browser does not support the video tag.\n</video>\n\n\n"
+                "description": "Zenith Reef\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/12115-ZenithReef.mp4\" type=\"video/mp4\"></video>"
             }
         },
         {
@@ -48,20 +48,20 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    145.3200685834948,
-                    -17.13614037892028,
+                    143.6008111092383,
+                    -12.88674079659791,
                     0
                 ]
             },
             "properties": {
-                "name": "Wallace Islet",
-                "styleUrl": "#m_ylw-pushpin",
-                "styleHash": "-72342b72",
+                "name": "ChapmanIsland",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
                 "styleMapHash": {
-                    "normal": "#s_ylw-pushpin",
-                    "highlight": "#s_ylw-pushpin_hl"
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
                 },
-                "description": "<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/11055_WallaceIslet.jpg\"/>"
+                "description": "Chapman Island\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/12129-Chapman-ForMediaRelease-1.mp4\" type=\"video/mp4\"></video>"
             }
         },
         {
@@ -69,20 +69,1448 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    145.7419992042864,
-                    -18.30825082044888,
+                    143.6149334030139,
+                    -12.98977800015652,
                     0
                 ]
             },
             "properties": {
-                "name": "MeggiDamunReef",
-                "styleUrl": "#m_ylw-pushpin",
-                "styleHash": "-72342b72",
+                "name": "Sherrard Island",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
                 "styleMapHash": {
-                    "normal": "#s_ylw-pushpin",
-                    "highlight": "#s_ylw-pushpin_hl"
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
                 },
-                "description": "<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/10326_MeggiDamunReef.jpg\"/>"
+                "description": "Sherrard Island\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/12145-SherrardReef.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.691887063615,
+                    -13.66998109578391,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hay Island",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Hay Island\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/13083-HayIsland.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.8895342712301,
+                    -14.56183769380046,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hampton Island",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Hampton Island\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/14102-HamptonIsland.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142.9715779381621,
+                    -9.975211849565785,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Dungeness Reef",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Dungeness Reef\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/09376-DungenessSouth.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142.9828135287977,
+                    -10.79994654262299,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Womer Cay",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Womer Cay\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/10338-WomerCay.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142.7735232452949,
+                    -10.90281425313516,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Shortland Reef",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Shortland Reef\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/10341-ShortlandReef.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142.9992297983216,
+                    -11.24421928255537,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Douglas Islet",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Douglas Islet\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/11038-DouglasIslet.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.0348508457575,
+                    -11.38588034397166,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Jardine Islet",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Jardine Islet\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/11053-JardineIslet.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.027281580451,
+                    -11.04748011424847,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "11-114",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Reef 11-114\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/11114.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.0399728857069,
+                    -11.13272770774462,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "11-118",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Reef 11-118\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/11118.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142.8991092477787,
+                    -11.59057996534443,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Pirie Islet",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Pirie Islet\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/11134-PirieIslet.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142.9394365134639,
+                    -11.59744712576431,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hannibal Islands",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Hannibal Islands\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/11136-HannibalIslands.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.8695616133135,
+                    -11.53407726240797,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "11-201",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Reef 11-201\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/11201.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.8660146896152,
+                    -11.55015818097922,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "11-204",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Reef 11-204\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/11204.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.2012648835428,
+                    -12.2409775164117,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Beesley Island",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Beesley Island\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/12011-BeesleyIsland.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.1997702517533,
+                    -12.31426161677627,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Daniell Reef",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Daniell Reef\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/12018-DaniellReef.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.6092063971552,
+                    -12.8092793061539,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wye Reef",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Wye Reef\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/12119-Wye.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.7193637464459,
+                    -13.86698254090099,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hannah Island",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Hannah Island\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/13097-HannahIsland.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.7546464775454,
+                    -13.94067010454516,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Burkitt Island",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Burkitt Island\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/13111-BurkittIsland.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.8586601526443,
+                    -14.06515890650747,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fahey Reef",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Fahey Reef\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/14006-Fahey.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.6977227036954,
+                    -14.475398090377,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Baron Reef",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Baron Reef\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/14070-BaronReef.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.6421178199765,
+                    -14.47596789188304,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Weigall Reefs",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Weigall Reefs\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/14071b-WeigallReefB.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.8687739375866,
+                    -14.54744105707634,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Leggatt Island",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Leggatt Island\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/14099-LeggattIsland.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.9053301416569,
+                    -14.55394348805184,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sinclair and Morris Islands",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Sinclair and Morris Islands\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/14101ab-Sinclair&MorrisIsland.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.8104991414934,
+                    -15.49268276024728,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ribbon Reef No. 3",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Ribbon Reef No. 3\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/15050-RibbonNo3_LHS.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.8012360578039,
+                    -15.71759615600654,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Pearl Reef",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Pearl Reef\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/15087-PearlReef_RHS.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.8129440044986,
+                    -15.88053863901097,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Escape Reef",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Escape Reef\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/15094-EscapeReef_LHS.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.8964105302302,
+                    -16.22188476068089,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Opal Reef",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Opal Reef\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/16025-OpalReef_LHS.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146.1872052033345,
+                    -17.00154525675339,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sudbury Reef",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Sudbury Reef\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/17001a-SudburyReef_LHS.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146.2607024609782,
+                    -16.92630080556079,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Elford Reef",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Elford Reef\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/16073-ElfordReef_RHS.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146.4721893851808,
+                    -17.1288978311832,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Noggin Reef",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Noggin Reef\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/17008-NogginReef_RHS.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146.0271765301633,
+                    -16.5867353014448,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Michaelmas Reef",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Michaelmas Reef\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/16060-MichaelmasReef_LHS.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146.6066894713202,
+                    -17.97087850333445,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "17-067",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Reef 17-067\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/17067_LHS.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146.2436984943263,
+                    -16.87387866418493,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Moore Reef",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Moore Reef\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/16071-MooreReef_LHS.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146.5805246298716,
+                    -18.06234695830315,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Otter Reef",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Otter Reef\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/18018-OtterReef_LHS.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.0266729396774,
+                    -18.20690692646653,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Pith Reef",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Pith Reef\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/18033-PithReef_RHS.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146.8781874596219,
+                    -18.48605346376532,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Rib Reef",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Rib Reef\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/18032-RibReef_RHS.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.3875914120923,
+                    -18.26668117906908,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Myrmidon Reef",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": " Myrmidon Reef\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/18034-MyrmidonReef_LHS.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146.5207915096819,
+                    -18.68673284392445,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fantome Island",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Fantome Island\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/18053-FantomeIsland_LHS.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.3151161340745,
+                    -20.10219352227207,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bugatti Reef",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Bugatti Reef\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/20127-BugattiReef_RHS.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    149.8790968215023,
+                    -19.63484023543289,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Reimer Reef",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Reimer Reef\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/19152-ReimerReef_RHS.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.3776879056148,
+                    -20.16230234125284,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "20-126",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Reef 20-126\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/20126_RHS.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.0654240814837,
+                    -20.35171387892284,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Robertson Reef No. 2",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Robertson Reef No. 2\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/20136-RobertsonReefNo2_LHS.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.5586469888966,
+                    -20.27840402250748,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "20-172",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Reef 20-172\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/20172.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.6039741971627,
+                    -20.3129407449671,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "20-179",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Reef 20-179\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/20179_RHS.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.6553190205577,
+                    -20.33434219615445,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "20-185c",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Reef 20-185c\n<video controls><source src=\"\\https://data.tropicaldatahub.org/coralbleaching2016/video/20185c_LHS.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.7208945332805,
+                    -20.4507737064336,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "20-197",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Reef 20-197\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/20197_LHS.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.1220773697507,
+                    -20.57310836100587,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Big Stevens Reef",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Big Stevens Reef\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/20295-BigStevensReef_RHS.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.4613476230153,
+                    -20.65427456527666,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Southampton Reef",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Southampton Reef\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/20299c-SouthamptonReef_LHS.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.9862678393076,
+                    -20.74301103974502,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cockatoo Reef",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Cockatoo Reef\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/20369a-CockatooReef_LHS.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.7999626306059,
+                    -20.63286163461114,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Molar Reef",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Molar Reef\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/20326-MolarReef_RHS.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.0683466185843,
+                    -20.79540706498125,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Rip Reef",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Rip Reef\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/20370a-RipReef_LHS.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.2940991280161,
+                    -20.88587256439452,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "20-382",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Reef 20-382\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/20382_RHS.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.3551875707448,
+                    -20.96156950784363,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "20-388a",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Reef 20-388a\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/20388a_RHS.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.3687577781673,
+                    -20.93860939603005,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "20-568",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Reef 20-568\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/20568_RHS.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.072452346281,
+                    -21.1258707312144,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "21-109",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Reef 21-109\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/21109_RHS.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.366075294589,
+                    -21.38288469647197,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Nancy Foster Reef",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Nancy Foster Reef\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/21131-NancyFosterReef_LHS.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.6623815570792,
+                    -21.07183133084847,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "21-147",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Reef 21-147\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/21147_RHS.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.7698165347721,
+                    -21.76933348267649,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "21-464",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Reef 21-464\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/21464_RHS.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.8451394946071,
+                    -21.24165334354909,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Riptide Cay",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Reef 21-464\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/21464_RHS.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.9014247164147,
+                    -21.3998994750043,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "21-185",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Reef 21-185\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/21185_LHS.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152.4883114894986,
+                    -21.41732547979644,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "21-263",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Reef 21-263\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/21263_LHS.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152.4743947705648,
+                    -21.61141138807028,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "21-491",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Reef 21-491\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/21491_RHS.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152.4922004822602,
+                    -21.93240350510818,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "21-546",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Reef 21-546\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/21546_RHS.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152.701412211835,
+                    -21.96691377892796,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Follett Reef",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Follett Reef\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/21586-FollettReef_LHS.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152.7551528913912,
+                    -22.21464249830808,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sandshoe Reef",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Sandshoe Reef\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/22133-SandshoeReef_LHS.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142.679309520215,
+                    -10.64196811996567,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Morilug Reef",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Morilug Reef\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/99304-MorilugReef.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.3511295737504,
+                    -10.54531311420733,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wap Reef",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Wap Reef\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/99461-WapReef.mp4\" type=\"video/mp4\"></video>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146.0191138474,
+                    -16.51952845602227,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hastings Reef",
+                "styleUrl": "#msn_wht-pushpin",
+                "styleHash": "7cc5f9d6",
+                "styleMapHash": {
+                    "normal": "#sn_wht-pushpin",
+                    "highlight": "#sh_wht-pushpin"
+                },
+                "description": "Hastings Reef\n<video controls><source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/16057-HastingsReef_LHS.mp4\" type=\"video/mp4\"></video>"
             }
         }
     ]

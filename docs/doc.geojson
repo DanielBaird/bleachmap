@@ -6,20 +6,20 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    147.6718174503368,
-                    -18.78953613169551,
-                    0
+                    142.777683333333,
+                    -10.6706633333333,
+                    163.368502587891
                 ]
             },
             "properties": {
-                "name": "WybornReef",
-                "styleUrl": "#m_ylw-pushpin",
-                "styleHash": "-72342b72",
+                "name": "10326_MeggiDamunReef.jpg",
+                "styleUrl": "#stylemap_id3281",
+                "styleHash": "-509c62f8",
                 "styleMapHash": {
-                    "normal": "#s_ylw-pushpin",
-                    "highlight": "#s_ylw-pushpin_hl"
+                    "normal": "#style2256",
+                    "highlight": "#style3279"
                 },
-                "description": "<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/10336_WybornReef.jpg\"/>"
+                "description": "<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/10326_MeggiDamunReef.jpg\"/>\nMeggi Damun Reef"
             }
         },
         {
@@ -27,20 +27,20 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    148.9963428065926,
-                    -19.33312165886435,
-                    0
+                    142.722556666667,
+                    -10.82493,
+                    69.7999906494141
                 ]
             },
             "properties": {
-                "name": "Video Test",
-                "styleUrl": "#m_ylw-pushpin",
-                "styleHash": "-72342b72",
+                "name": "10335_HarringtonReef.jpg",
+                "styleUrl": "#stylemap_id326",
+                "styleHash": "3b170548",
                 "styleMapHash": {
-                    "normal": "#s_ylw-pushpin",
-                    "highlight": "#s_ylw-pushpin_hl"
+                    "normal": "#style2234",
+                    "highlight": "#style3228"
                 },
-                "description": "<video width=\"320\" height=\"240\" controls>\n  <source src=\"https://data.tropicaldatahub.org/coralbleaching2016/video/IMG_3477.MP4\" type=\"video/mp4\">\n  Your browser does not support the video tag.\n</video>\n\n\n"
+                "description": "Harrington Reef \n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/10335_HarringtonReef.jpg\"/>"
             }
         },
         {
@@ -48,20 +48,20 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    146.3200685834948,
-                    -17.13614037892028,
-                    0
+                    142.731771666667,
+                    -10.8224433333333,
+                    117.909109936524
                 ]
             },
             "properties": {
-                "name": "Wallace Islet",
-                "styleUrl": "#m_ylw-pushpin",
-                "styleHash": "-72342b72",
+                "name": "10336_WybornReef.jpg",
+                "styleUrl": "#stylemap_id329",
+                "styleHash": "99aec6a",
                 "styleMapHash": {
-                    "normal": "#s_ylw-pushpin",
-                    "highlight": "#s_ylw-pushpin_hl"
+                    "normal": "#style2243",
+                    "highlight": "#style326"
                 },
-                "description": "<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/11055_WallaceIslet.jpg\"/>"
+                "description": "Wyborn Reef \n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/10336_WybornReef.jpg\"/>"
             }
         },
         {
@@ -69,20 +69,1994 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    146.7419992042864,
-                    -18.30825082044888,
-                    0
+                    143.311796666667,
+                    -10.7479366666667,
+                    92.9089801025392
                 ]
             },
             "properties": {
-                "name": "MeggiDamunReef",
-                "styleUrl": "#m_ylw-pushpin",
-                "styleHash": "-72342b72",
+                "name": "10355.jpg",
+                "styleUrl": "#stylemap_id3270",
+                "styleHash": "4c6b6b4c",
                 "styleMapHash": {
-                    "normal": "#s_ylw-pushpin",
-                    "highlight": "#s_ylw-pushpin_hl"
+                    "normal": "#style2274",
+                    "highlight": "#style3221"
                 },
-                "description": "<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/10326_MeggiDamunReef.jpg\"/>"
+                "description": "Reef 10-355\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/10355.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142.503345,
+                    -10.1641566666667,
+                    108.807721289063
+                ]
+            },
+            "properties": {
+                "name": "10449_SuarjiIsland.jpg",
+                "styleUrl": "#stylemap_id3211",
+                "styleHash": "-64f9fe3a",
+                "styleMapHash": {
+                    "normal": "#style2258",
+                    "highlight": "#style3269"
+                },
+                "description": "Suarji Island\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/10449_SuarjiIsland.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142.67474,
+                    -10.1644883333333,
+                    101.059515161133
+                ]
+            },
+            "properties": {
+                "name": "10456a_SaddleIsland1.jpg",
+                "styleUrl": "#stylemap_id3234",
+                "styleHash": "-595d4552",
+                "styleMapHash": {
+                    "normal": "#style2261",
+                    "highlight": "#style3291"
+                },
+                "description": "Saddle Island\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/10456a_SaddleIsland2.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142.673798333333,
+                    -10.164455,
+                    100.057492602539
+                ]
+            },
+            "properties": {
+                "name": "10456a_SaddleIsland2.jpg",
+                "styleUrl": "#stylemap_id324",
+                "styleHash": "23b034c8",
+                "styleMapHash": {
+                    "normal": "#style2278",
+                    "highlight": "#style321"
+                },
+                "description": "Saddle Island\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/10456a_SaddleIsland1.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.03021,
+                    -11.4513333333333,
+                    111.636385839844
+                ]
+            },
+            "properties": {
+                "name": "11055_WallaceIslet.jpg",
+                "styleUrl": "#stylemap_id3239",
+                "styleHash": "-c5df8cf",
+                "styleMapHash": {
+                    "normal": "#style2291",
+                    "highlight": "#style3226"
+                },
+                "description": "Wallace Islet\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/11055_WallaceIslet.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.428868333333,
+                    -11.8616083333333,
+                    92.0559996093751
+                ]
+            },
+            "properties": {
+                "name": "11173.jpg",
+                "styleUrl": "#stylemap_id327",
+                "styleHash": "6421a4c4",
+                "styleMapHash": {
+                    "normal": "#style221",
+                    "highlight": "#style3248"
+                },
+                "description": "Reef 11-173\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/11173.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.111268333333,
+                    -11.8999383333333,
+                    98.727276123047
+                ]
+            },
+            "properties": {
+                "name": "11176_RodneyIsland.jpg",
+                "styleUrl": "#stylemap_id3220",
+                "styleHash": "-24d7f736",
+                "styleMapHash": {
+                    "normal": "#style2210",
+                    "highlight": "#style3224"
+                },
+                "description": "Rodney Island\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/11176_RodneyIsland.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.417023333333,
+                    -11.9484966666667,
+                    126.276292236328
+                ]
+            },
+            "properties": {
+                "name": "11184b_WreckReef1.jpg",
+                "styleUrl": "#stylemap_id3245",
+                "styleHash": "-22f2b2e",
+                "styleMapHash": {
+                    "normal": "#style2290",
+                    "highlight": "#style3282"
+                },
+                "description": "Wreck Reef\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/11184b_WreckReef1.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.418096666667,
+                    -11.9488966666667,
+                    130.858989257813
+                ]
+            },
+            "properties": {
+                "name": "11184b_WreckReef2.jpg",
+                "styleUrl": "#stylemap_id3222",
+                "styleHash": "59a36e2b",
+                "styleMapHash": {
+                    "normal": "#style2231",
+                    "highlight": "#style3288"
+                },
+                "description": "Wreck Reef\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/11184b_WreckReef2.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.423831666667,
+                    -11.949595,
+                    143.735691650391
+                ]
+            },
+            "properties": {
+                "name": "11184b_WreckReef3.jpg",
+                "styleUrl": "#stylemap_id3257",
+                "styleHash": "5f5b1b47",
+                "styleMapHash": {
+                    "normal": "#style2268",
+                    "highlight": "#style324"
+                },
+                "description": "Wreck Reef\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/11184b_WreckReef3.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.281238333333,
+                    -11.9778233333333,
+                    25.2983302368164
+                ]
+            },
+            "properties": {
+                "name": "11187_HarveyIsland.jpg",
+                "styleUrl": "#stylemap_id3228",
+                "styleHash": "60c9068e",
+                "styleMapHash": {
+                    "normal": "#style2272",
+                    "highlight": "#style3274"
+                },
+                "description": "Harvey Island\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/11187_HarveyIsland.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.290295,
+                    -11.973695,
+                    179.796002197266
+                ]
+            },
+            "properties": {
+                "name": "11188_ClerkeIsland1.jpg",
+                "styleUrl": "#stylemap_id3265",
+                "styleHash": "380dd00a",
+                "styleMapHash": {
+                    "normal": "#style2276",
+                    "highlight": "#style3232"
+                },
+                "description": "Clerke Island\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/11188_ClerkeIsland1.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.288386666667,
+                    -11.9712383333333,
+                    175.220709375
+                ]
+            },
+            "properties": {
+                "name": "11188_ClerkeIsland2.jpg",
+                "styleUrl": "#stylemap_id3212",
+                "styleHash": "82d0123",
+                "styleMapHash": {
+                    "normal": "#style2239",
+                    "highlight": "#style3252"
+                },
+                "description": "Clerke Island\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/11188_ClerkeIsland2.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.292005,
+                    -11.9731783333333,
+                    41.5213167480469
+                ]
+            },
+            "properties": {
+                "name": "11188_ClerkeIsland3.jpg",
+                "styleUrl": "#stylemap_id3284",
+                "styleHash": "2f4cedb0",
+                "styleMapHash": {
+                    "normal": "#style2281",
+                    "highlight": "#style3213"
+                },
+                "description": "Clerke Island\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/11188_ClerkeIsland3.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.296101666667,
+                    -11.9711116666667,
+                    38.5603393432618
+                ]
+            },
+            "properties": {
+                "name": "11188_ClerkeIsland4.jpg",
+                "styleUrl": "#stylemap_id3217",
+                "styleHash": "-57c1fb5b",
+                "styleMapHash": {
+                    "normal": "#style2215",
+                    "highlight": "#style3231"
+                },
+                "description": "Clerke Island\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/11188_ClerkeIsland4.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.296795,
+                    -11.970785,
+                    37.569006829834
+                ]
+            },
+            "properties": {
+                "name": "11188_ClerkeIsland5.jpg",
+                "styleUrl": "#stylemap_id323",
+                "styleHash": "59f2d723",
+                "styleMapHash": {
+                    "normal": "#style222",
+                    "highlight": "#style3272"
+                },
+                "description": "Clerke Island\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/11188_ClerkeIsland5.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.301385,
+                    -12.0341883333333,
+                    38.1673307739258
+                ]
+            },
+            "properties": {
+                "name": "12001_HaggerstonIsland1.jpg",
+                "styleUrl": "#stylemap_id3227",
+                "styleHash": "6e507265",
+                "styleMapHash": {
+                    "normal": "#style220",
+                    "highlight": "#style3215"
+                },
+                "description": "Haggerston Island\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/12001_HaggerstonIsland1.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.296613333333,
+                    -12.03595,
+                    57.5070107666016
+                ]
+            },
+            "properties": {
+                "name": "12001_HaggerstonIsland2.jpg",
+                "styleUrl": "#stylemap_id3277",
+                "styleHash": "-6dbae094",
+                "styleMapHash": {
+                    "normal": "#style2263",
+                    "highlight": "#style3227"
+                },
+                "description": "Haggerston Island<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/12001_HaggerstonIsland2.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.22258,
+                    -12.2437066666667,
+                    95.9999914306642
+                ]
+            },
+            "properties": {
+                "name": "12012_PiperReef1.jpg",
+                "styleUrl": "#stylemap_id3263",
+                "styleHash": "7de7842a",
+                "styleMapHash": {
+                    "normal": "#style2265",
+                    "highlight": "#style3273"
+                },
+                "description": "Piper Reef\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/12012_PiperReef1.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.222478333333,
+                    -12.2443783333333,
+                    96.39997631835949
+                ]
+            },
+            "properties": {
+                "name": "12012_PiperReef2.jpg",
+                "styleUrl": "#stylemap_id3250",
+                "styleHash": "-13839132",
+                "styleMapHash": {
+                    "normal": "#style2250",
+                    "highlight": "#style3238"
+                },
+                "description": "Piper Reef\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/12012_PiperReef2.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.225903333333,
+                    -12.2443366666667,
+                    84.2727165527345
+                ]
+            },
+            "properties": {
+                "name": "12012_PiperReef3.jpg",
+                "styleUrl": "#stylemap_id3261",
+                "styleHash": "-466d9557",
+                "styleMapHash": {
+                    "normal": "#style2255",
+                    "highlight": "#style3270"
+                },
+                "description": "Piper Reef\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/12012_PiperReef3.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.414613333333,
+                    -12.2648666666667,
+                    156.254983300781
+                ]
+            },
+            "properties": {
+                "name": "12016b_ForbesIsland.jpg",
+                "styleUrl": "#stylemap_id3254",
+                "styleHash": "62645085",
+                "styleMapHash": {
+                    "normal": "#style2226",
+                    "highlight": "#style328"
+                },
+                "description": "Forbes Island\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/12016b_ForbesIsland.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.408708333333,
+                    -12.44222,
+                    129.742992260742
+                ]
+            },
+            "properties": {
+                "name": "12027a_EelReef1.jpg",
+                "styleUrl": "#stylemap_id321",
+                "styleHash": "7f82ce21",
+                "styleMapHash": {
+                    "normal": "#style2219",
+                    "highlight": "#style3267"
+                },
+                "description": "Eel Reef\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/12027a_EelReef1.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.407283333333,
+                    -12.440295,
+                    130.7859890625
+                ]
+            },
+            "properties": {
+                "name": "12027a_EelReef2.jpg",
+                "styleUrl": "#stylemap_id325",
+                "styleHash": "-764e643e",
+                "styleMapHash": {
+                    "normal": "#style2218",
+                    "highlight": "#style3266"
+                },
+                "description": "Eel Reef\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/12027a_EelReef2.jpg\"/>\n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.40656,
+                    -12.4393483333333,
+                    131.122005761719
+                ]
+            },
+            "properties": {
+                "name": "12027a_EelReef3.jpg",
+                "styleUrl": "#stylemap_id3286",
+                "styleHash": "691b72c",
+                "styleMapHash": {
+                    "normal": "#style2285",
+                    "highlight": "#style325"
+                },
+                "description": "Eel Reef\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/12027a_EelReef3.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.918875,
+                    -12.277915,
+                    89.8686912597657
+                ]
+            },
+            "properties": {
+                "name": "12056_MantisReef1.jpg",
+                "styleUrl": "#stylemap_id3243",
+                "styleHash": "63d23bcc",
+                "styleMapHash": {
+                    "normal": "#style2230",
+                    "highlight": "#style3261"
+                },
+                "description": "Mantis Reef\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/12056_MantisReef1.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.870968333333,
+                    -12.3259616666667,
+                    117.113000390625
+                ]
+            },
+            "properties": {
+                "name": "12056_MantisReef2.jpg",
+                "styleUrl": "#stylemap_id3235",
+                "styleHash": "2ddf0269",
+                "styleMapHash": {
+                    "normal": "#style2277",
+                    "highlight": "#style3222"
+                },
+                "description": "Mantis Reef\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/12056_MantisReef2.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.514783333333,
+                    -12.55537,
+                    123.869313574219
+                ]
+            },
+            "properties": {
+                "name": "12096_DolphinReef.jpg",
+                "styleUrl": "#stylemap_id3274",
+                "styleHash": "3137a09f",
+                "styleMapHash": {
+                    "normal": "#style226",
+                    "highlight": "#style3244"
+                },
+                "description": "Dolphin Reef\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/12096_DolphinReef.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.52635,
+                    -12.5959933333333,
+                    143.264018115235
+                ]
+            },
+            "properties": {
+                "name": "12102_CurdReef.jpg",
+                "styleUrl": "#stylemap_id3291",
+                "styleHash": "1aef526e",
+                "styleMapHash": {
+                    "normal": "#style2283",
+                    "highlight": "#style3236"
+                },
+                "description": "Curd Reef\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/12102_CurdReef.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.60084,
+                    -12.71995,
+                    140.891000170899
+                ]
+            },
+            "properties": {
+                "name": "12112_ApeReef1.jpg",
+                "styleUrl": "#stylemap_id3262",
+                "styleHash": "-61f0c8fc",
+                "styleMapHash": {
+                    "normal": "#style2216",
+                    "highlight": "#style3259"
+                },
+                "description": "Ape Reef\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/12112_ApeReef1.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.595785,
+                    -12.7117833333333,
+                    160.116980126953
+                ]
+            },
+            "properties": {
+                "name": "12112_ApeReef2.jpg",
+                "styleUrl": "#stylemap_id3271",
+                "styleHash": "-320ffa15",
+                "styleMapHash": {
+                    "normal": "#style2253",
+                    "highlight": "#style32"
+                },
+                "description": "Ape Reef\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/12112_ApeReef2.jpg\"/>\n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.60259,
+                    -12.75385,
+                    160.564004003906
+                ]
+            },
+            "properties": {
+                "name": "12115_ZenithReef.jpg",
+                "styleUrl": "#stylemap_id3226",
+                "styleHash": "-14f17c79",
+                "styleMapHash": {
+                    "normal": "#style2246",
+                    "highlight": "#style3235"
+                },
+                "description": "Zenith Reef\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/12115_ZenithReef.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.597236666667,
+                    -12.873535,
+                    107.846710180664
+                ]
+            },
+            "properties": {
+                "name": "12124_1.jpg",
+                "styleUrl": "#stylemap_id3240",
+                "styleHash": "13c9ba0b",
+                "styleMapHash": {
+                    "normal": "#style2242",
+                    "highlight": "#style3283"
+                },
+                "description": "Reef 12-124\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/12124_1.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.597131666667,
+                    -12.8732216666667,
+                    108.488010571289
+                ]
+            },
+            "properties": {
+                "name": "12124_2.jpg",
+                "styleUrl": "#stylemap_id322",
+                "styleHash": "-74e078f7",
+                "styleMapHash": {
+                    "normal": "#style2222",
+                    "highlight": "#style3229"
+                },
+                "description": "Reef 12-124\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/12124_2.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.597013333333,
+                    -12.872215,
+                    110.46350859375
+                ]
+            },
+            "properties": {
+                "name": "12124_3.jpg",
+                "styleUrl": "#stylemap_id3279",
+                "styleHash": "125bcec4",
+                "styleMapHash": {
+                    "normal": "#style2238",
+                    "highlight": "#style3219"
+                },
+                "description": "Reef 12-124\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/12124_3.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.597093333333,
+                    -12.870825,
+                    113.016701586914
+                ]
+            },
+            "properties": {
+                "name": "12124_4.jpg",
+                "styleUrl": "#stylemap_id3216",
+                "styleHash": "583582e4",
+                "styleMapHash": {
+                    "normal": "#style2227",
+                    "highlight": "#style3216"
+                },
+                "description": "Reef 12-124\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/12124_4.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.595951666667,
+                    -12.884705,
+                    19.6922003356934
+                ]
+            },
+            "properties": {
+                "name": "12129_ChapmanIsland1.jpg",
+                "styleUrl": "#stylemap_id3288",
+                "styleHash": "-1f204a1a",
+                "styleMapHash": {
+                    "normal": "#style2247",
+                    "highlight": "#style3214"
+                },
+                "description": "Chapman Island\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/12129_ChapmanIsland1.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.595951666667,
+                    -12.884705,
+                    19.4036598083496
+                ]
+            },
+            "properties": {
+                "name": "12129_ChapmanIsland2.jpg",
+                "styleUrl": "#stylemap_id3278",
+                "styleHash": "19816727",
+                "styleMapHash": {
+                    "normal": "#style2279",
+                    "highlight": "#style3240"
+                },
+                "description": "Chapman Island\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/12129_ChapmanIsland2.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.595951666667,
+                    -12.884705,
+                    19.1632000671387
+                ]
+            },
+            "properties": {
+                "name": "12129_ChapmanIsland3.jpg",
+                "styleUrl": "#stylemap_id3251",
+                "styleHash": "-2f06c4d7",
+                "styleMapHash": {
+                    "normal": "#style2211",
+                    "highlight": "#style3212"
+                },
+                "description": "Chapman Island\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/12129_ChapmanIsland3.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.620013333333,
+                    -12.985945,
+                    182.993295410156
+                ]
+            },
+            "properties": {
+                "name": "12145_SherrardIsland1.jpg",
+                "styleUrl": "#stylemap_id3264",
+                "styleHash": "-22297f58",
+                "styleMapHash": {
+                    "normal": "#style2289",
+                    "highlight": "#style3247"
+                },
+                "description": "Sherrard Island\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/12145_SherrardIsland1.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.619191666667,
+                    -12.9848416666667,
+                    180.252997558594
+                ]
+            },
+            "properties": {
+                "name": "12145_SherrardIsland2.jpg",
+                "styleUrl": "#stylemap_id320",
+                "styleHash": "4fc40982",
+                "styleMapHash": {
+                    "normal": "#style223",
+                    "highlight": "#style329"
+                },
+                "description": "Sherrard Island\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/12145_SherrardIsland2.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.618185,
+                    -12.9843116666667,
+                    180.183011132813
+                ]
+            },
+            "properties": {
+                "name": "12145_SherrardIsland3.jpg",
+                "styleUrl": "#stylemap_id3238",
+                "styleHash": "73b8b689",
+                "styleMapHash": {
+                    "normal": "#style2266",
+                    "highlight": "#style3251"
+                },
+                "description": "Sherrard Island\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/12145_SherrardIsland3.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.617186666667,
+                    -12.983775,
+                    184.5040125
+                ]
+            },
+            "properties": {
+                "name": "12145_SherrardIsland4.jpg",
+                "styleUrl": "#stylemap_id3255",
+                "styleHash": "1df887ac",
+                "styleMapHash": {
+                    "normal": "#style2241",
+                    "highlight": "#style3260"
+                },
+                "description": "Sherrard Island\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/12145_SherrardIsland4.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.6164,
+                    -12.98142,
+                    193.525992041016
+                ]
+            },
+            "properties": {
+                "name": "12145_SherrardIsland5.jpg",
+                "styleUrl": "#stylemap_id3280",
+                "styleHash": "-7f0f4698",
+                "styleMapHash": {
+                    "normal": "#style2223",
+                    "highlight": "#style3277"
+                },
+                "description": "Sherrard Island\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/12145_SherrardIsland5.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.616866666667,
+                    -12.9797383333333,
+                    192.310996435547
+                ]
+            },
+            "properties": {
+                "name": "12145_SherrardIsland6.jpg",
+                "styleUrl": "#stylemap_id3259",
+                "styleHash": "43d7e7a2",
+                "styleMapHash": {
+                    "normal": "#style2229",
+                    "highlight": "#style3268"
+                },
+                "description": "Sherrard Island\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/12145_SherrardIsland6.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.617686666667,
+                    -12.978315,
+                    192.026492871094
+                ]
+            },
+            "properties": {
+                "name": "12145_SherrardIsland7.jpg",
+                "styleUrl": "#stylemap_id3285",
+                "styleHash": "6c931e26",
+                "styleMapHash": {
+                    "normal": "#style2225",
+                    "highlight": "#style322"
+                },
+                "description": "Sherrard Island\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/12145_SherrardIsland7.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.62653,
+                    -13.0388683333333,
+                    129.600014941406
+                ]
+            },
+            "properties": {
+                "name": "13006_OsborneReef1.jpg",
+                "styleUrl": "#stylemap_id3213",
+                "styleHash": "397bbb51",
+                "styleMapHash": {
+                    "normal": "#style2280",
+                    "highlight": "#style3280"
+                },
+                "description": "Osborne Reef\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/13006_OsborneReef1.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.62818,
+                    -13.0415083333333,
+                    128.200007373047
+                ]
+            },
+            "properties": {
+                "name": "13006_OsborneReef2.jpg",
+                "styleUrl": "#stylemap_id3266",
+                "styleHash": "45953be1",
+                "styleMapHash": {
+                    "normal": "#style224",
+                    "highlight": "#style3223"
+                },
+                "description": "Osborne Reef\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/13006_OsborneReef2.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.683316666667,
+                    -13.0740016666667,
+                    130.800016113281
+                ]
+            },
+            "properties": {
+                "name": "13014.jpg",
+                "styleUrl": "#stylemap_id3247",
+                "styleHash": "4f74a08a",
+                "styleMapHash": {
+                    "normal": "#style2232",
+                    "highlight": "#style3217"
+                },
+                "description": "Reef 13-014\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/13014.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.578303333333,
+                    -13.154825,
+                    149.25598725586
+                ]
+            },
+            "properties": {
+                "name": "13031_NightIsland.jpg",
+                "styleUrl": "#stylemap_id3249",
+                "styleHash": "-4d932dba",
+                "styleMapHash": {
+                    "normal": "#style2214",
+                    "highlight": "#style3250"
+                },
+                "description": "Night Island\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/13031_NightIsland.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.786788333333,
+                    -13.5541533333333,
+                    82.5000061523438
+                ]
+            },
+            "properties": {
+                "name": "13076_OgilvieReef1.jpg",
+                "styleUrl": "#stylemap_id3268",
+                "styleHash": "-ac2aed8",
+                "styleMapHash": {
+                    "normal": "#style2245",
+                    "highlight": "#style3211"
+                },
+                "description": "Ogilvie Reef\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/13076_OgilvieReef1.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.788321666667,
+                    -13.5536,
+                    83.999989013672
+                ]
+            },
+            "properties": {
+                "name": "13076_OgilvieReef2.jpg",
+                "styleUrl": "#stylemap_id3210",
+                "styleHash": "423c9dab",
+                "styleMapHash": {
+                    "normal": "#style2275",
+                    "highlight": "#style3286"
+                },
+                "description": "Ogilvie Reef\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/13076_OgilvieReef2.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.708471666667,
+                    -13.65738,
+                    130.776203613281
+                ]
+            },
+            "properties": {
+                "name": "13081_FifeIsland1.jpg",
+                "styleUrl": "#stylemap_id3218",
+                "styleHash": "4e06b543",
+                "styleMapHash": {
+                    "normal": "#style2228",
+                    "highlight": "#style3258"
+                },
+                "description": "Fife Island\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/13081_FifeIsland1.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.719153333333,
+                    -13.6548833333333,
+                    124.70827631836
+                ]
+            },
+            "properties": {
+                "name": "13081_FifeIsland2.jpg",
+                "styleUrl": "#stylemap_id3231",
+                "styleHash": "-6f28cbdb",
+                "styleMapHash": {
+                    "normal": "#style2259",
+                    "highlight": "#style320"
+                },
+                "description": "Fife Island\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/13081_FifeIsland2.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.734443333333,
+                    -13.6208166666667,
+                    118.333688671875
+                ]
+            },
+            "properties": {
+                "name": "13081_FifeIsland3.jpg",
+                "styleUrl": "#stylemap_id3273",
+                "styleHash": "569a38ed",
+                "styleMapHash": {
+                    "normal": "#style2273",
+                    "highlight": "#style3234"
+                },
+                "description": "Fife Island\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/13081_FifeIsland3.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.734098333333,
+                    -13.6205783333333,
+                    117.828305566406
+                ]
+            },
+            "properties": {
+                "name": "13081_FifeIsland4.jpg",
+                "styleUrl": "#stylemap_id3258",
+                "styleHash": "-43646019",
+                "styleMapHash": {
+                    "normal": "#style2213",
+                    "highlight": "#style3233"
+                },
+                "description": "Fife Island\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/13081_FifeIsland4.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.729845,
+                    -13.6177016666667,
+                    109.532988647461
+                ]
+            },
+            "properties": {
+                "name": "13081_FifeIsland5.jpg",
+                "styleUrl": "#stylemap_id3236",
+                "styleHash": "-93e137",
+                "styleMapHash": {
+                    "normal": "#style2244",
+                    "highlight": "#style3239"
+                },
+                "description": "Fife Island\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/13081_FifeIsland5.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.705703333333,
+                    -13.6581833333333,
+                    143.204003173828
+                ]
+            },
+            "properties": {
+                "name": "13083_HayIsland.jpg",
+                "styleUrl": "#stylemap_id3289",
+                "styleHash": "4545d2e9",
+                "styleMapHash": {
+                    "normal": "#style2233",
+                    "highlight": "#style3265"
+                },
+                "description": "Hay Island\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/13083_HayIsland.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.656975,
+                    -13.7394566666667,
+                    93.0099971923829
+                ]
+            },
+            "properties": {
+                "name": "13086_PoulsenReef.jpg",
+                "styleUrl": "#stylemap_id328",
+                "styleHash": "2708d2fe",
+                "styleMapHash": {
+                    "normal": "#style227",
+                    "highlight": "#style3230"
+                },
+                "description": "Poulsen Reef\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/13086_PoulsenReef.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.6406089667275,
+                    -13.77328755250584,
+                    80.3103537597657
+                ]
+            },
+            "properties": {
+                "name": "13091_WilkieIsland1.jpg",
+                "styleUrl": "#stylemap_id31",
+                "styleHash": "ff6e96a",
+                "styleMapHash": {
+                    "normal": "#style21",
+                    "highlight": "#style31"
+                },
+                "description": "Wilkie Island\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/13091_WilkieIsland1.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.6401527857493,
+                    -13.77053072562534,
+                    85.8689912109376
+                ]
+            },
+            "properties": {
+                "name": "13091_WilkieIsland2.jpg",
+                "styleUrl": "#stylemap_id3",
+                "styleHash": "1a25b70b",
+                "styleMapHash": {
+                    "normal": "#style20",
+                    "highlight": "#style3"
+                },
+                "description": "Wilkie Island\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/13091_WilkieIsland2.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.01129,
+                    -14.0690716666667,
+                    113.499993017578
+                ]
+            },
+            "properties": {
+                "name": "14016_CorbettReef.jpg",
+                "styleUrl": "#stylemap_id3225",
+                "styleHash": "6af7d42f",
+                "styleMapHash": {
+                    "normal": "#style2271",
+                    "highlight": "#style3218"
+                },
+                "description": "Corbett Reef\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/14016_CorbettReef.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.269898333333,
+                    -14.14683,
+                    165.485712890625
+                ]
+            },
+            "properties": {
+                "name": "14026b_StanleyIsland.jpg",
+                "styleUrl": "#stylemap_id32",
+                "styleHash": "12ab37bc",
+                "styleMapHash": {
+                    "normal": "#style229",
+                    "highlight": "#style3242"
+                },
+                "description": "Stanley Island\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/14026b_StanleyIsland.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.88364,
+                    -14.56133,
+                    77.0908991088868
+                ]
+            },
+            "properties": {
+                "name": "14102_HamptonIsland1.jpg",
+                "styleUrl": "#stylemap_id3241",
+                "styleHash": "-dcbe416",
+                "styleMapHash": {
+                    "normal": "#style2287",
+                    "highlight": "#style3241"
+                },
+                "description": "Hampton Island\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/14102_HamptonIsland1.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.883891666667,
+                    -14.56186,
+                    76.7272747924805
+                ]
+            },
+            "properties": {
+                "name": "14102_HamptonIsland2.jpg",
+                "styleUrl": "#stylemap_id3292",
+                "styleHash": "1cda055d",
+                "styleMapHash": {
+                    "normal": "#style228",
+                    "highlight": "#style3254"
+                },
+                "description": "Hampton Island\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/14102_HamptonIsland2.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.884018333333,
+                    -14.562125,
+                    76.5454626342774
+                ]
+            },
+            "properties": {
+                "name": "14102_HamptonIsland3.jpg",
+                "styleUrl": "#stylemap_id3230",
+                "styleHash": "-77e9ae35",
+                "styleMapHash": {
+                    "normal": "#style2264",
+                    "highlight": "#style3237"
+                },
+                "description": "Hampton Island\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/14102_HamptonIsland3.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.884145,
+                    -14.56239,
+                    76.3636458251954
+                ]
+            },
+            "properties": {
+                "name": "14102_HamptonIsland4.jpg",
+                "styleUrl": "#stylemap_id3242",
+                "styleHash": "76c1ebc7",
+                "styleMapHash": {
+                    "normal": "#style2224",
+                    "highlight": "#style3276"
+                },
+                "description": "Hampton Island\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/14102_HamptonIsland4.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.885043333333,
+                    -14.5629433333333,
+                    73.4000174194337
+                ]
+            },
+            "properties": {
+                "name": "14102_HamptonIsland5.jpg",
+                "styleUrl": "#stylemap_id3290",
+                "styleHash": "-6082ddb5",
+                "styleMapHash": {
+                    "normal": "#style2220",
+                    "highlight": "#style3284"
+                },
+                "description": "Hampton Island\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/14102_HamptonIsland5.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.885365,
+                    -14.562955,
+                    72.1000130493165
+                ]
+            },
+            "properties": {
+                "name": "14102_HamptonIsland6.jpg",
+                "styleUrl": "#stylemap_id3224",
+                "styleHash": "-6ab1ab56",
+                "styleMapHash": {
+                    "normal": "#style2221",
+                    "highlight": "#style3271"
+                },
+                "description": "Hampton Island\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/14102_HamptonIsland6.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.757266666667,
+                    -15.292385,
+                    101.900003393555
+                ]
+            },
+            "properties": {
+                "name": "15032_RibbonReefNo6.jpg",
+                "styleUrl": "#stylemap_id3287",
+                "styleHash": "-337de55c",
+                "styleMapHash": {
+                    "normal": "#style2249",
+                    "highlight": "#style3292"
+                },
+                "description": "Ribbon Reef No. 6\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/15032_RibbonReefNo6.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.766966666667,
+                    -15.3129483333333,
+                    112.00001015625
+                ]
+            },
+            "properties": {
+                "name": "15034.jpg",
+                "styleUrl": "#stylemap_id3267",
+                "styleHash": "-27e12c74",
+                "styleMapHash": {
+                    "normal": "#style2252",
+                    "highlight": "#style3289"
+                },
+                "description": "Reef 15-034\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/15034.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.316405,
+                    -15.6484916666667,
+                    227.608004736328
+                ]
+            },
+            "properties": {
+                "name": "15058_WalshBay1.jpg",
+                "styleUrl": "#stylemap_id3232",
+                "styleHash": "-3c3ec7b6",
+                "styleMapHash": {
+                    "normal": "#style2254",
+                    "highlight": "#style3257"
+                },
+                "description": "Walsh Bay\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/15058_WalshBay1.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.316401666667,
+                    -15.6473316666667,
+                    223.011987597656
+                ]
+            },
+            "properties": {
+                "name": "15058_WalshBay2.jpg",
+                "styleUrl": "#stylemap_id3272",
+                "styleHash": "26b96a06",
+                "styleMapHash": {
+                    "normal": "#style2236",
+                    "highlight": "#style3245"
+                },
+                "description": "Walsh Bay\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/15058_WalshBay2.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.343623333333,
+                    -15.68714,
+                    154.090873535156
+                ]
+            },
+            "properties": {
+                "name": "15059a.jpg",
+                "styleUrl": "#stylemap_id3275",
+                "styleHash": "-294f17bb",
+                "styleMapHash": {
+                    "normal": "#style2248",
+                    "highlight": "#style3243"
+                },
+                "description": "Reef 15-059a\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/15059a.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.79453,
+                    -15.73917,
+                    73.2000063720704
+                ]
+            },
+            "properties": {
+                "name": "15088_RubyReef1.jpg",
+                "styleUrl": "#stylemap_id3256",
+                "styleHash": "2827554d",
+                "styleMapHash": {
+                    "normal": "#style2240",
+                    "highlight": "#style3293"
+                },
+                "description": "Ruby Reef\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/15088_RubyReef1.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.795006666667,
+                    -15.7376066666667,
+                    75.5999994140626
+                ]
+            },
+            "properties": {
+                "name": "15088_RubyReef2.jpg",
+                "styleUrl": "#stylemap_id3214",
+                "styleHash": "-168cc670",
+                "styleMapHash": {
+                    "normal": "#style2292",
+                    "highlight": "#style3285"
+                },
+                "description": "Ruby Reef\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/15088_RubyReef2.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.795483333333,
+                    -15.7360433333333,
+                    77.9999971069337
+                ]
+            },
+            "properties": {
+                "name": "15088_RubyReef3.jpg",
+                "styleUrl": "#stylemap_id3219",
+                "styleHash": "10c084cd",
+                "styleMapHash": {
+                    "normal": "#style2284",
+                    "highlight": "#style327"
+                },
+                "description": "Ruby Reef\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/15088_RubyReef3.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.807898333333,
+                    -15.7839816666667,
+                    87.0999858398438
+                ]
+            },
+            "properties": {
+                "name": "15090_AndersenReef.jpg",
+                "styleUrl": "#stylemap_id3276",
+                "styleHash": "-6c1f969d",
+                "styleMapHash": {
+                    "normal": "#style2217",
+                    "highlight": "#style3246"
+                },
+                "description": "Andersen Reef\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/15090_AndersenReef.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.856456666667,
+                    -16.112165,
+                    112.299991845703
+                ]
+            },
+            "properties": {
+                "name": "16019_StCrispinReef.jpg",
+                "styleUrl": "#stylemap_id3252",
+                "styleHash": "-5acb3099",
+                "styleMapHash": {
+                    "normal": "#style2257",
+                    "highlight": "#style3275"
+                },
+                "description": "St. Crispin Reef\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/16019_StCrispinReef.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.985255,
+                    -16.460785,
+                    107.000008374024
+                ]
+            },
+            "properties": {
+                "name": "16032_SaxonReef1.jpg",
+                "styleUrl": "#stylemap_id3246",
+                "styleHash": "-638c12f3",
+                "styleMapHash": {
+                    "normal": "#style2262",
+                    "highlight": "#style323"
+                },
+                "description": "Saxon Reef\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/16032_SaxonReef1.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.985396666667,
+                    -16.4575333333333,
+                    105.909098217774
+                ]
+            },
+            "properties": {
+                "name": "16032_SaxonReef2.jpg",
+                "styleUrl": "#stylemap_id3233",
+                "styleHash": "251e200f",
+                "styleMapHash": {
+                    "normal": "#style2282",
+                    "highlight": "#style3262"
+                },
+                "description": "Saxon Reef\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/16032_SaxonReef2.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146.183998333333,
+                    -16.797215,
+                    119.090907568359
+                ]
+            },
+            "properties": {
+                "name": "16068_ThetfordReef1.jpg",
+                "styleUrl": "#stylemap_id3221",
+                "styleHash": "3b666e40",
+                "styleMapHash": {
+                    "normal": "#style225",
+                    "highlight": "#style3225"
+                },
+                "description": "Thetford Reef <img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/16068_ThetfordReef1.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146.18252,
+                    -16.7979433333333,
+                    118.272706347656
+                ]
+            },
+            "properties": {
+                "name": "16068_ThetfordReef2.jpg",
+                "styleUrl": "#stylemap_id30",
+                "styleHash": "-2e7b559d",
+                "styleMapHash": {
+                    "normal": "#style2",
+                    "highlight": "#style30"
+                },
+                "description": "Thetford Reef\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/16068_ThetfordReef2.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146.971488333333,
+                    -18.1257116666667,
+                    105.272709155274
+                ]
+            },
+            "properties": {
+                "name": "18023_1.jpg",
+                "styleUrl": "#stylemap_id3229",
+                "styleHash": "-1db25ed3",
+                "styleMapHash": {
+                    "normal": "#style2251",
+                    "highlight": "#style3255"
+                },
+                "description": "Reef 18-023\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/18023_1.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146.971613333333,
+                    -18.124445,
+                    103.818202587891
+                ]
+            },
+            "properties": {
+                "name": "18023_2.jpg",
+                "styleUrl": "#stylemap_id3293",
+                "styleHash": "-39d1675",
+                "styleMapHash": {
+                    "normal": "#style2286",
+                    "highlight": "#style3249"
+                },
+                "description": "Reef 18-023\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/18023_2.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146.644776666667,
+                    -18.7446483333333,
+                    116.799996240234
+                ]
+            },
+            "properties": {
+                "name": "18054e_GreatPalmIsland1.jpg",
+                "styleUrl": "#stylemap_id3244",
+                "styleHash": "7526a1d0",
+                "styleMapHash": {
+                    "normal": "#style2270",
+                    "highlight": "#style3263"
+                },
+                "description": "Great Palm Island\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/18054e_GreatPalmIsland1.jpg\"/>\n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146.627765,
+                    -18.715225,
+                    106.272694628906
+                ]
+            },
+            "properties": {
+                "name": "18054e_GreatPalmIsland2.jpg",
+                "styleUrl": "#stylemap_id3237",
+                "styleHash": "-20bb9411",
+                "styleMapHash": {
+                    "normal": "#style2293",
+                    "highlight": "#style3220"
+                },
+                "description": "Great Palm Island\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/18054e_GreatPalmIsland2.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.170223333333,
+                    -21.3461166666667,
+                    137.272718701172
+                ]
+            },
+            "properties": {
+                "name": "21128_StormCay1.jpg",
+                "styleUrl": "#stylemap_id3283",
+                "styleHash": "552c4da6",
+                "styleMapHash": {
+                    "normal": "#style2269",
+                    "highlight": "#style3278"
+                },
+                "description": "Storm Cay\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/21128_StormCay1.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.145278333333,
+                    -21.349415,
+                    147.272712963867
+                ]
+            },
+            "properties": {
+                "name": "21128_StormCay2.jpg",
+                "styleUrl": "#stylemap_id3253",
+                "styleHash": "1c8a9c65",
+                "styleMapHash": {
+                    "normal": "#style2237",
+                    "highlight": "#style3287"
+                },
+                "description": "Storm Cay\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/21128_StormCay2.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.434441666667,
+                    -21.3813783333333,
+                    134.199994628906
+                ]
+            },
+            "properties": {
+                "name": "21135.jpg",
+                "styleUrl": "#stylemap_id3215",
+                "styleHash": "6989e8e8",
+                "styleMapHash": {
+                    "normal": "#style2267",
+                    "highlight": "#style3281"
+                },
+                "description": "Reef 21-135\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/21135.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.477521666667,
+                    -21.530785,
+                    139.272717553711
+                ]
+            },
+            "properties": {
+                "name": "21433.jpg",
+                "styleUrl": "#stylemap_id3248",
+                "styleHash": "5c81bc9",
+                "styleMapHash": {
+                    "normal": "#style22",
+                    "highlight": "#style3253"
+                },
+                "description": "Reef 21-433\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/21433.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.871275,
+                    -21.7951016666667,
+                    145.090892651367
+                ]
+            },
+            "properties": {
+                "name": "21465.jpg",
+                "styleUrl": "#stylemap_id3282",
+                "styleHash": "-39359278",
+                "styleMapHash": {
+                    "normal": "#style2212",
+                    "highlight": "#style3210"
+                },
+                "description": "Reef 21-465\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/21465.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142.652286666667,
+                    -10.6376216666667,
+                    69.2469918457032
+                ]
+            },
+            "properties": {
+                "name": "99303_MtAdolphus(Mori)Island.jpg",
+                "styleUrl": "#stylemap_id3269",
+                "styleHash": "30e837a7",
+                "styleMapHash": {
+                    "normal": "#style2235",
+                    "highlight": "#style3264"
+                },
+                "description": "Mt. Adolphus (Mori) Island\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/99303_MtAdolphus(Mori)Island.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142.448793333333,
+                    -10.7180266666667,
+                    80.6324922363282
+                ]
+            },
+            "properties": {
+                "name": "PunsandBay.jpg",
+                "styleUrl": "#stylemap_id3260",
+                "styleHash": "-4f2e77b1",
+                "styleMapHash": {
+                    "normal": "#style2260",
+                    "highlight": "#style3256"
+                },
+                "description": "Punsand Bay\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/PunsandBay.jpg\"/>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142.9436,
+                    -10.0410433333333,
+                    22.6911196105957
+                ]
+            },
+            "properties": {
+                "name": "SassieIsland.jpg",
+                "styleUrl": "#stylemap_id3223",
+                "styleHash": "-17fab1b7",
+                "styleMapHash": {
+                    "normal": "#style2288",
+                    "highlight": "#style3290"
+                },
+                "description": "Sassie Island\n<img src=\"https://data.tropicaldatahub.org/coralbleaching2016/photo/SassieIsland.jpg\"/>"
             }
         }
     ]
