@@ -122,6 +122,17 @@ map.on('load', function() {
             .setHTML(feature.properties.description)
             .addTo(map);
     })
+    map.on('touchstart', function (e) {
+        var features = map.queryRenderedFeatures(e.point, { layers: ['piclayer', 'vidlayer'] });
+        if (!features.length) {
+            return;
+        }
+        var feature = features[0];
+        var popup = new mapboxgl.Popup()
+            .setLngLat(feature.geometry.coordinates)
+            .setHTML(feature.properties.description)
+            .addTo(map);
+    })
     // show mouse cursor as 'pointer'
     map.on('mousemove', function (e) {
         var features = map.queryRenderedFeatures(e.point, { layers: ['piclayer', 'vidlayer'] });
